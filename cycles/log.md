@@ -30,3 +30,5 @@ Score: 2.91->3.05 CAUTIOUS ACCUM. BTC +8.05% ($73,765). ETF $1.7B confirmed GREE
 Watch C11: Hormuz resolution | Brent $90 | MVRV <1.0 | Alt dominance 52%
 
 [CYCLE 10] [2026-03-04] Spanish Research Brief — First full 6-level research report in Spanish for retail investors. BTC $73,765 (+8.05%), ETF $1.7B inflows (GREEN), MVRV 1.1 (ORANGE), Ormuz Day 5 (RED), Score 2.91->3.05 Cautelosa. 4 hidden gems summarized in Spanish. Output: outputs/cycle10_spanish_research_brief_2026-03-04.md [DONE]
+
+[CYCLE 11] [2026-03-04] Output Design Guide — Explored most valuable outputs for retail investors. Finding: 5 of 6 highest-value output types already LIVE (Score Update, Flash Alert, Sector Brief, L6 Deep Dive, Bilingual Brief). Gap: Portfolio Allocation Guide (Score→Allocation%). 3 core principles defined: So What Rule, Context Ladder Rule, Threshold Rule. Score 3.05->3.08 CAUTIOUS ACCUM. Hormuz Day 5 RED ongoing, Bessent pledge eases Brent to $73.84, BTC $73,676 +7.85%. MVRV 1.1 ORANGE. AltSeason 35. Watch C12: Hormuz ceasefire | MVRV<1.0 | AltSeason>50 [DONE]

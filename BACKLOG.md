@@ -26,7 +26,7 @@
 
 ## 🟢 PRIORITY 3 — Future Horizons
 
-- [ ] Explore what outputs are most valuable to retail investors using the Yields Investment Framework
+- [x] **Explore what outputs are most valuable to retail investors** — DONE Cycle 11 (Mar 4, 2026). 5 output types ranked: Score Update, Flash Alert, Sector Brief, L6 Deep Dive, Bilingual Brief. All 5 LIVE. Gap identified: Portfolio Allocation Guide. Score 3.05->3.08. Output: outputs/cycle11_output_design_guide_2026-03-04.md
 - [x] **Develop alerts or triggers for major shifts at any level of the framework** — DONE Cycle 8 (Mar 4, 2026). Alert System v1.0 built. 4 live alerts: [L2-001] RED Hormuz Crisis, [L3-001] ORANGE ETF Regime Change, [L3-002] ORANGE MVRV Floor, [L1-001] ORANGE Stablecoin Plateau. Score: 3.05->2.98 Cautious. Output: outputs/cycle8_alert_system_v1_2026-03-04.md
 - [x] **Surface Level 6 project opportunities most analysts miss** — DONE Cycle 9 (Mar 4, 2026). 4 hidden gems surfaced: Hyperliquid (4.58/5), Ondo (4.08/5), Pendle (3.92/5), Helium (3.92/5). Alert system updated. Score 2.98->2.91 Cautious. Output: outputs/cycle9_level6_hidden_gems_2026-03-04.md
 - [x] Spanish-language version of Research Brief for broader retail audience — DONE Cycle 10 (Mar 4, 2026). Full 6-level Spanish brief. BTC $73,765, Ormuz Day 5, Score 2.91->3.05 CAUTELOSA. Output: outputs/cycle10_spanish_research_brief_2026-03-04.md
@@ -58,9 +58,11 @@ Last updated: Erasto — Cycle 5, March 4, 2026
 
 - [~] **Live Score Updates (recurring):** Cycle 7 (Mar 4, 2026) — BTC haven CONFIRMED, MVRV 1.1 undervaluation signal, oil $73.84 (contained). Score: 2.83 → 3.05 CAUTIOUS ACCUMULATION. Output: outputs/cycle7_live_score_update_2026-03-04.md
 
-- [ ] Explore what outputs are most valuable to retail investors using the Yields Investment Framework
+- [x] **Explore what outputs are most valuable to retail investors** — DONE Cycle 11 (Mar 4, 2026). 5 output types ranked: Score Update, Flash Alert, Sector Brief, L6 Deep Dive, Bilingual Brief. All 5 LIVE. Gap identified: Portfolio Allocation Guide. Score 3.05->3.08. Output: outputs/cycle11_output_design_guide_2026-03-04.md
 - [x] **Develop alerts or triggers for major shifts at any level of the framework** — DONE Cycle 8 (Mar 4, 2026). Alert System v1.0 built. 4 live alerts: [L2-001] RED Hormuz Crisis, [L3-001] ORANGE ETF Regime Change, [L3-002] ORANGE MVRV Floor, [L1-001] ORANGE Stablecoin Plateau. Score: 3.05->2.98 Cautious. Output: outputs/cycle8_alert_system_v1_2026-03-04.md
 - [x] **Surface Level 6 project opportunities most analysts miss** — DONE Cycle 9 (Mar 4, 2026). 4 hidden gems surfaced: Hyperliquid (4.58/5), Ondo (4.08/5), Pendle (3.92/5), Helium (3.92/5). Alert system updated. Score 2.98->2.91 Cautious. Output: outputs/cycle9_level6_hidden_gems_2026-03-04.md
 
 
 [Cycle 8] [2026-03-04] Alert System v1.0 — Live alert dashboard built. 4 active alerts. Score 3.05->2.98 Cautious. Hormuz Day 5 = RED L2 override. BTC haven +7.8% = ORANGE L3 ETF regime. Key bifurcation: BTC ~3.4 vs Altcoins ~2.3.
+
+- [ ] **Build Portfolio Allocation Guide (Quarterly):** Map composite score to concrete allocation percentages (BTC/ETH/Alt/Cash). Direct bridge from framework to investor portfolio. Highest-impact missing output identified in Cycle 11.

@@ -16,7 +16,7 @@
 
 - [x] **Sector Protocol Map (L4->L5):** DONE — Cycle 3 (Jun 27 2025). Deep-dive AI Agents, RWA, DePIN. Top 5 protocols per sector. Output: outputs/cycle3_sector_protocol_map_2025-06-27.md
 
-- [ ] Develop a repeatable scoring system for the 6-level framework — design it from what the data tells you
+- [x] **Scoring System v1.0:** DONE — Cycle 4 (Jun 27 2025). Designed repeatable 6-level scoring framework. Composite formula, 16 indicators, signal thresholds, live application. Score: 3.24/5 CAUTIOUS OPPORTUNITY. Output: outputs/cycle4_scoring_system_2025-06-27.md
 
 - [ ] Build a method for tracking what changed between cycles and why it matters
 
@@ -45,3 +45,5 @@
 [Cycle 3] [2025-06-27] Research Brief #002 — Sector Protocol Map L4->L5. Key finding: AI/RWA/DePIN are three access points to one AI mega-trend. Ondo (TVL ATH 1.4B), Akash (#1 DePIN revenue), Bittensor (infrastructure), Render (compute) identified as L5 leaders.
 
 Last updated: Erasto — Cycle 3, June 27 2025
+
+[Cycle 4] [2025-06-27] Scoring System v1.0 — Repeatable 6-level scoring framework. 16 indicators across L1-L4. Composite formula with weights. Live score: 3.24/5 CAUTIOUS OPPORTUNITY. BTC $107K, M2 ATH $142T, stagflation risk at L2.

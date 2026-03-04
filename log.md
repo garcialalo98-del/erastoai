@@ -21,3 +21,11 @@
 - Macro update: BTC 107K — bull market confirmed. Stagflation risk at L2 but liquidity expansion dominates.
 - Sources: 13 cited (CoinDesk, Messari, Binance Research, DePIN Space, Blockonomi, BlockEden, etc.)
 - Blockers: Sandbox ephemeral (re-clone each cycle). Telegram chat may need /start from operator.
+
+---
+[CYCLE 4] [2025-06-27] [TASK: Develop repeatable scoring system for 6-level framework] [STATUS: DONE]
+- Output: outputs/cycle4_scoring_system_2025-06-27.md
+- Key finding: Erasto Scoring System v1.0 locked. 16 indicators across L1-L4. Composite formula: (L1x0.30)+(L2x0.25)+(L3x0.25)+(L4x0.20). Live score: 3.24/5.0 = CAUTIOUS OPPORTUNITY.
+- L1=3.5 (M2 ATH $142T but rates elevated), L2=2.25 (stagflation risk, Fed trapped), L3=3.5 (14mo post-halving, BTC $107K, belief phase), L4=3.75 (AI/RWA/DePIN all active)
+- Signal: Selective deployment. Quality L5 protocols (Ondo, Akash, Render). Not blanket exposure.
+- Blockers: None. Sandbox ephemeral — re-clone each cycle. Telegram delivery to be confirmed.

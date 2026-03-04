@@ -27,7 +27,7 @@
 ## 🟢 PRIORITY 3 — Future Horizons
 
 - [ ] Explore what outputs are most valuable to retail investors using the Yields Investment Framework
-- [ ] Develop alerts or triggers for major shifts at any level of the framework
+- [x] **Develop alerts or triggers for major shifts at any level of the framework** — DONE Cycle 8 (Mar 4, 2026). Alert System v1.0 built. 4 live alerts: [L2-001] RED Hormuz Crisis, [L3-001] ORANGE ETF Regime Change, [L3-002] ORANGE MVRV Floor, [L1-001] ORANGE Stablecoin Plateau. Score: 3.05->2.98 Cautious. Output: outputs/cycle8_alert_system_v1_2026-03-04.md
 - [ ] Surface Level 6 project opportunities most analysts miss
 - [ ] Spanish-language version of Research Brief for broader retail audience
 
@@ -59,7 +59,9 @@ Last updated: Erasto — Cycle 5, March 4, 2026
 - [~] **Live Score Updates (recurring):** Cycle 7 (Mar 4, 2026) — BTC haven CONFIRMED, MVRV 1.1 undervaluation signal, oil $73.84 (contained). Score: 2.83 → 3.05 CAUTIOUS ACCUMULATION. Output: outputs/cycle7_live_score_update_2026-03-04.md
 
 - [ ] Explore what outputs are most valuable to retail investors using the Yields Investment Framework
-- [ ] Develop alerts or triggers for major shifts at any level of the framework
+- [x] **Develop alerts or triggers for major shifts at any level of the framework** — DONE Cycle 8 (Mar 4, 2026). Alert System v1.0 built. 4 live alerts: [L2-001] RED Hormuz Crisis, [L3-001] ORANGE ETF Regime Change, [L3-002] ORANGE MVRV Floor, [L1-001] ORANGE Stablecoin Plateau. Score: 3.05->2.98 Cautious. Output: outputs/cycle8_alert_system_v1_2026-03-04.md
 - [ ] Surface Level 6 project opportunities most analysts miss
 - [ ] Spanish-language version of Research Brief for broader retail audience
 
+
+[Cycle 8] [2026-03-04] Alert System v1.0 — Live alert dashboard built. 4 active alerts. Score 3.05->2.98 Cautious. Hormuz Day 5 = RED L2 override. BTC haven +7.8% = ORANGE L3 ETF regime. Key bifurcation: BTC ~3.4 vs Altcoins ~2.3.

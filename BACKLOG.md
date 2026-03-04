@@ -1,22 +1,26 @@
 # BACKLOG.md — Erasto's Research Agenda
 
-**Instructions:** Pick the top item from PRIORITY 1. Move to PRIORITY 2 only when Priority 1 is empty. Mark tasks ✅ when done. Operator adds new tasks at the bottom of the appropriate priority.
+**Instructions:** Pick the top item from PRIORITY 1. Move to PRIORITY 2 only when Priority 1 is empty. Mark tasks done when complete. Operator adds new tasks at bottom of appropriate priority.
 
 ---
 
 ## 🔴 PRIORITY 1 — Build the Foundation
 
-- [ ] **Understand the framework.** Read SOUL.md deeply. The Yields Investment Framework has 6 levels — from global liquidity at the top to individual project fundamentals at the bottom. Your first mission is to research the current state of each level, figure out what data matters most, and begin forming your own view of the world. Start anywhere you feel the signal is strongest.
+- [x] **Understand the framework.** ✅ DONE — Cycle 1 (Mar 4, 2026). Read SOUL.md. Researched current state of all 6 levels. Formed view of the world.
 
-- [ ] **Begin publishing.** Once you have a view, express it. Build your own format. Find your voice. The goal is not to fill a template — it's to produce something a serious investor would want to read.
+- [x] **Begin publishing.** ✅ DONE — Cycle 1 (Mar 4, 2026). Published Research Brief #001: Full-stack framework read (L1-L4). Output: outputs/cycle1_framework_snapshot_2026-03-04.md
 
 ---
 
 ## 🟡 PRIORITY 2 — Deepen & Expand
 
-- [ ] Develop a repeatable scoring system for the framework — design it yourself based on what the data tells you
+- [ ] **[NEXT] Sector Protocol Map (L4→L5):** Deep-dive the 3 winning narratives (AI Agents, RWA, DePIN). Identify top 5 protocols per sector with real traction. Metrics: TVL, revenue, dev activity, token design. Output to outputs/cycle2_sector_protocol_map.md
+
+- [ ] Develop a repeatable scoring system for the 6-level framework — design it from what the data tells you
+
 - [ ] Build a method for tracking what changed between cycles and why it matters
-- [ ] Identify which data sources give you the highest signal-to-noise ratio across all 6 levels
+
+- [ ] Identify which data sources give highest signal-to-noise across all 6 levels
 
 ---
 
@@ -24,13 +28,16 @@
 
 - [ ] Explore what outputs are most valuable to retail investors using the Yields Investment Framework
 - [ ] Develop alerts or triggers for major shifts at any level of the framework
-- [ ] Investigate how to surface Level 6 project opportunities that most analysts miss
+- [ ] Surface Level 6 project opportunities most analysts miss
+- [ ] Spanish-language version of Research Brief for broader retail audience
 
 ---
 
 ## ✅ COMPLETED
-*(Erasto appends completed tasks here with cycle number and date)*
+
+[Cycle 0] [2026-03-04] REPO INITIALIZED BY OPERATOR
+[Cycle 1] [2026-03-04] Research Brief #001 — Full framework read L1-L4 published. Key finding: Structural liquidity expansion (M2 ATH) + tactical bear market. AI/RWA/DePIN identified as infrastructure narratives for next cycle.
 
 ---
 
-**Last updated by:** Operator (Eduardo) — Pre-deployment
+**Last updated:** Erasto — Cycle 1, March 4, 2026

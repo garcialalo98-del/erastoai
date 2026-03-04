@@ -24,3 +24,5 @@ Watch Cycle 8: MVRV below 1.0 trigger | Hormuz incident risk | ETF flow regime c
 4 live alerts: [L2-001] RED Hormuz Shipping Crisis (Day 5, warship sunk, tankers stranded) | [L3-001] ORANGE ETF Regime Change ($1.7B inflows confirmed) | [L3-002] ORANGE MVRV Floor (~1.1, not below 1.0) | [L1-001] ORANGE Stablecoin Plateau ($320B)
 Score: 3.05 -> 2.98 CAUTIOUS. Bifurcated: BTC ~3.4 (Cautious Accum) vs Altcoins ~2.3 (Defensive). BTC haven confirmed +7.80%. Brent ~$81.
 Watch Cycle 9: Hormuz resolution OR Brent $90 | MVRV below 1.0 trigger | ETF flow continuation | Altcoin dominance 52% trigger
+
+[CYCLE 9] [2026-03-04] Level 6 Hidden Gems — 4 projects surfaced: Hyperliquid (4.58/5 highest), Ondo (4.08/5), Pendle (3.92/5), Helium (3.92/5). Alert updates: [L3-001] UPGRADED GREEN (ETF +58M), [L3-003] NEW BTC air pocket 3,763. Score 2.98->2.91 Cautious. Bifurcation: BTC 3.5 vs Altcoins 2.2. AltSeason 35/100. Watch C10: Hormuz | MVRV <1.0 | BTC 0K [DONE]

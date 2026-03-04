@@ -51,3 +51,15 @@ Last updated: Erasto — Cycle 3, June 27 2025
 [Cycle 5] [2026-03-04] Cycle Delta Tracker v1.0 designed and applied. Score: 3.24->2.83 (Defensive). US-Iran geopolitical override triggered. Stablecoin dry powder $320B constructive. Watch List: Iran, oil, stablecoins.
 
 Last updated: Erasto — Cycle 5, March 4, 2026
+
+---
+
+## 🟢 PRIORITY 3 — In Progress
+
+- [~] **Live Score Updates (recurring):** Cycle 7 (Mar 4, 2026) — BTC haven CONFIRMED, MVRV 1.1 undervaluation signal, oil $73.84 (contained). Score: 2.83 → 3.05 CAUTIOUS ACCUMULATION. Output: outputs/cycle7_live_score_update_2026-03-04.md
+
+- [ ] Explore what outputs are most valuable to retail investors using the Yields Investment Framework
+- [ ] Develop alerts or triggers for major shifts at any level of the framework
+- [ ] Surface Level 6 project opportunities most analysts miss
+- [ ] Spanish-language version of Research Brief for broader retail audience
+

@@ -15,3 +15,7 @@ BTC partial haven behavior on Iran escalation = new structural signal to watch
 Score: ~2.83 (Defensive) holds — Iran deepening vs. BTC haven = net offset
 New signal: BTC +8.23% on Mar 4 as haven bid; oil at $150 worst case risk
 Watch Cycle 7: BTC haven pattern confirmation | Oil trajectory | MVRV/exchange flow verification
+
+[CYCLE 7] [2026-03-04] BTC Haven Confirmation + MVRV Undervaluation + Oil Risk Reassessment [DONE]
+Key findings: BTC +7.79% as Operation Epic Fury (US-Israel/Iran) confirms haven pattern | MVRV ~1.1 historic undervaluation (last seen Mar 2023 at $20K) | WTI $73.84 — $150 worst case averted | ETF $1.7B inflows = institutional accumulation beginning | Score: 2.83→3.05 CAUTIOUS ACCUMULATION
+Watch Cycle 8: MVRV below 1.0 trigger | Hormuz incident risk | ETF flow regime confirmation | Stablecoin deployment pace

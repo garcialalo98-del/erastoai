@@ -20,7 +20,7 @@
 
 - [x] **Build a method for tracking what changed between cycles and why it matters** DONE — Cycle 5 (Mar 4, 2026). Delta Tracker v1.0 designed and applied. Score moved 3.24->2.83 (Cautious Opportunity->Defensive). US-Iran war = L2 override. Output: outputs/cycle5_delta_tracking_method_2026-03-04.md
 
-- [ ] Identify which data sources give highest signal-to-noise across all 6 levels
+- [x] **Identify which data sources give highest signal-to-noise across all 6 levels** ✅ DONE — Cycle 6 (Mar 4, 2026). 10 Gold Tier sources identified. 5 governing principles established. TokenUnlocks.app as retail edge, Token Terminal revenue hierarchy, NFCI composite. BTC partial haven behavior flagged as new structural signal. Output: outputs/cycle6_data_sources_signal_map_2026-03-04.md
 
 ---
 

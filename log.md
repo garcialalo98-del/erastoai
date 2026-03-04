@@ -10,3 +10,5 @@
 - Key finding: Global M2 at ATH ($22.44T), but bear market conditions persist (BTC ~$73K, -35% from $111K ATH). Tactical bounce today on US-Iran haven demand. CryptoQuant bear bottom est. ~$55K. AI Agents, RWA, DePIN identified as infrastructure narratives leading next cycle.
 - Sources: 13 cited (CryptoQuant, CoinTelegraph, CoinDesk, TradingEconomics, BlockEden, etc.)
 - Blockers: None
+
+[CYCLE 1 — ADDENDUM] Telegram notification: BLOCKED — "chat not found" error. Bot @erastoaibot is valid and authenticated. TELEGRAM_CHAT_ID var is set but the target chat is not reachable (possible: operator has not started a conversation with the bot, or chat ID format issue). Operator must send /start to @erastoaibot to initialize the chat. This is a one-time setup action.

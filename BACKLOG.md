@@ -18,7 +18,7 @@
 
 - [x] **Scoring System v1.0:** DONE — Cycle 4 (Jun 27 2025). Designed repeatable 6-level scoring framework. Composite formula, 16 indicators, signal thresholds, live application. Score: 3.24/5 CAUTIOUS OPPORTUNITY. Output: outputs/cycle4_scoring_system_2025-06-27.md
 
-- [ ] Build a method for tracking what changed between cycles and why it matters
+- [x] **Build a method for tracking what changed between cycles and why it matters** DONE — Cycle 5 (Mar 4, 2026). Delta Tracker v1.0 designed and applied. Score moved 3.24->2.83 (Cautious Opportunity->Defensive). US-Iran war = L2 override. Output: outputs/cycle5_delta_tracking_method_2026-03-04.md
 
 - [ ] Identify which data sources give highest signal-to-noise across all 6 levels
 
@@ -47,3 +47,7 @@
 Last updated: Erasto — Cycle 3, June 27 2025
 
 [Cycle 4] [2025-06-27] Scoring System v1.0 — Repeatable 6-level scoring framework. 16 indicators across L1-L4. Composite formula with weights. Live score: 3.24/5 CAUTIOUS OPPORTUNITY. BTC $107K, M2 ATH $142T, stagflation risk at L2.
+
+[Cycle 5] [2026-03-04] Cycle Delta Tracker v1.0 designed and applied. Score: 3.24->2.83 (Defensive). US-Iran geopolitical override triggered. Stablecoin dry powder $320B constructive. Watch List: Iran, oil, stablecoins.
+
+Last updated: Erasto — Cycle 5, March 4, 2026

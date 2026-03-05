@@ -1,68 +1,150 @@
-# BACKLOG.md — Erasto's Research Agenda
+# BACKLOG.md — Erasto's Research Agenda (v2)
 
-**Instructions:** Pick the top item from PRIORITY 1. Move to PRIORITY 2 only when Priority 1 is empty. Mark tasks done when complete. Operator adds new tasks at bottom of appropriate priority.
-
----
-
-## 🔴 PRIORITY 1 — Build the Foundation
-
-- [x] **Understand the framework.** ✅ DONE — Cycle 1 (Mar 4, 2026). Read SOUL.md. Researched current state of all 6 levels. Formed view of the world.
-
-- [x] **Begin publishing.** ✅ DONE — Cycle 1 (Mar 4, 2026). Published Research Brief #001: Full-stack framework read (L1-L4). Output: outputs/cycle1_framework_snapshot_2026-03-04.md
+**Instructions:** Pick the top item from PRIORITY 1. Move to PRIORITY 2 only when Priority 1 is empty. Mark tasks ✅ when done.
 
 ---
 
-## 🟡 PRIORITY 2 — Deepen & Expand
+## ✅ v1 COMPLETED (Cycles 1-11)
 
-- [x] **Sector Protocol Map (L4->L5):** DONE — Cycle 3 (Jun 27 2025). Deep-dive AI Agents, RWA, DePIN. Top 5 protocols per sector. Output: outputs/cycle3_sector_protocol_map_2025-06-27.md
+- [x] **Understand the framework** — Cycle 1
+- [x] **Begin publishing** — Cycle 1
+- [x] **Sector Protocol Map (L4->L5)** — Cycle 3
+- [x] **Scoring System v1.0** — Cycle 4
+- [x] **Build Delta Tracker** — Cycle 5
+- [x] **Identify high-signal data sources** — Cycle 6
+- [x] **Live Score Updates** — Cycle 7
+- [x] **Alert System v1.0** — Cycle 8
+- [x] **Level 6 Hidden Gems** — Cycle 9
+- [x] **Spanish Research Brief** — Cycle 10
+- [x] **Output Design Guide** — Cycle 11
 
-- [x] **Scoring System v1.0:** DONE — Cycle 4 (Jun 27 2025). Designed repeatable 6-level scoring framework. Composite formula, 16 indicators, signal thresholds, live application. Score: 3.24/5 CAUTIOUS OPPORTUNITY. Output: outputs/cycle4_scoring_system_2025-06-27.md
-
-- [x] **Build a method for tracking what changed between cycles and why it matters** DONE — Cycle 5 (Mar 4, 2026). Delta Tracker v1.0 designed and applied. Score moved 3.24->2.83 (Cautious Opportunity->Defensive). US-Iran war = L2 override. Output: outputs/cycle5_delta_tracking_method_2026-03-04.md
-
-- [x] **Identify which data sources give highest signal-to-noise across all 6 levels** ✅ DONE — Cycle 6 (Mar 4, 2026). 10 Gold Tier sources identified. 5 governing principles established. TokenUnlocks.app as retail edge, Token Terminal revenue hierarchy, NFCI composite. BTC partial haven behavior flagged as new structural signal. Output: outputs/cycle6_data_sources_signal_map_2026-03-04.md
-
----
-
-## 🟢 PRIORITY 3 — Future Horizons
-
-- [x] **Explore what outputs are most valuable to retail investors** — DONE Cycle 11 (Mar 4, 2026). 5 output types ranked: Score Update, Flash Alert, Sector Brief, L6 Deep Dive, Bilingual Brief. All 5 LIVE. Gap identified: Portfolio Allocation Guide. Score 3.05->3.08. Output: outputs/cycle11_output_design_guide_2026-03-04.md
-- [x] **Develop alerts or triggers for major shifts at any level of the framework** — DONE Cycle 8 (Mar 4, 2026). Alert System v1.0 built. 4 live alerts: [L2-001] RED Hormuz Crisis, [L3-001] ORANGE ETF Regime Change, [L3-002] ORANGE MVRV Floor, [L1-001] ORANGE Stablecoin Plateau. Score: 3.05->2.98 Cautious. Output: outputs/cycle8_alert_system_v1_2026-03-04.md
-- [x] **Surface Level 6 project opportunities most analysts miss** — DONE Cycle 9 (Mar 4, 2026). 4 hidden gems surfaced: Hyperliquid (4.58/5), Ondo (4.08/5), Pendle (3.92/5), Helium (3.92/5). Alert system updated. Score 2.98->2.91 Cautious. Output: outputs/cycle9_level6_hidden_gems_2026-03-04.md
-- [x] Spanish-language version of Research Brief for broader retail audience — DONE Cycle 10 (Mar 4, 2026). Full 6-level Spanish brief. BTC $73,765, Ormuz Day 5, Score 2.91->3.05 CAUTELOSA. Output: outputs/cycle10_spanish_research_brief_2026-03-04.md
+**v1 Status:** 5 output types LIVE. Scoring system validated. Alert infrastructure deployed. Ready for quant upgrade.
 
 ---
 
-## ✅ COMPLETED
+## 🔴 PRIORITY 1 — v2 Quant Analyst Upgrade (Cycles 12-20)
 
-[Cycle 0] [2026-03-04] REPO INITIALIZED BY OPERATOR
-[Cycle 1] [2026-03-04] Research Brief #001 — Full framework read L1-L4 published. Key finding: Structural liquidity expansion (M2 ATH) + tactical bear market. AI/RWA/DePIN identified as infrastructure narratives for next cycle.
-
----
-
-**Last updated:** Erasto — Cycle 1, March 4, 2026
-
-[Cycle 3] [2025-06-27] Research Brief #002 — Sector Protocol Map L4->L5. Key finding: AI/RWA/DePIN are three access points to one AI mega-trend. Ondo (TVL ATH 1.4B), Akash (#1 DePIN revenue), Bittensor (infrastructure), Render (compute) identified as L5 leaders.
-
-Last updated: Erasto — Cycle 3, June 27 2025
-
-[Cycle 4] [2025-06-27] Scoring System v1.0 — Repeatable 6-level scoring framework. 16 indicators across L1-L4. Composite formula with weights. Live score: 3.24/5 CAUTIOUS OPPORTUNITY. BTC $107K, M2 ATH $142T, stagflation risk at L2.
-
-[Cycle 5] [2026-03-04] Cycle Delta Tracker v1.0 designed and applied. Score: 3.24->2.83 (Defensive). US-Iran geopolitical override triggered. Stablecoin dry powder $320B constructive. Watch List: Iran, oil, stablecoins.
-
-Last updated: Erasto — Cycle 5, March 4, 2026
+### CYCLE 12: Portfolio Allocation Model v1
+**Goal:** Map composite score → concrete allocation percentages
+**Deliverables:**
+- Allocation formula by score range (4.5-5.0, 3.5-4.4, 2.5-3.4, 1.5-2.4, <1.5)
+- Rebalancing trigger rules (score delta threshold)
+- Asset classes: BTC%, Alts%, Stablecoins%
+**Output:** `cycle12_portfolio_allocation_model.md`
 
 ---
 
-## 🟢 PRIORITY 3 — In Progress
+### CYCLE 13: Historical Data Collection
+**Goal:** Build dataset for backtesting (2020-2026)
+**Deliverables:**
+- BTC/ETH monthly price data (CoinGecko free API)
+- Manual quarterly scoring using existing L1-L4 framework
+- CSV format: Date, BTC Price, Score, L1, L2, L3, L4
+- Data collection script (Python)
+**Output:** `cycle13_historical_data_2020_2026.csv` + `data_collector.py`
 
-- [~] **Live Score Updates (recurring):** Cycle 7 (Mar 4, 2026) — BTC haven CONFIRMED, MVRV 1.1 undervaluation signal, oil $73.84 (contained). Score: 2.83 → 3.05 CAUTIOUS ACCUMULATION. Output: outputs/cycle7_live_score_update_2026-03-04.md
+---
 
-- [x] **Explore what outputs are most valuable to retail investors** — DONE Cycle 11 (Mar 4, 2026). 5 output types ranked: Score Update, Flash Alert, Sector Brief, L6 Deep Dive, Bilingual Brief. All 5 LIVE. Gap identified: Portfolio Allocation Guide. Score 3.05->3.08. Output: outputs/cycle11_output_design_guide_2026-03-04.md
-- [x] **Develop alerts or triggers for major shifts at any level of the framework** — DONE Cycle 8 (Mar 4, 2026). Alert System v1.0 built. 4 live alerts: [L2-001] RED Hormuz Crisis, [L3-001] ORANGE ETF Regime Change, [L3-002] ORANGE MVRV Floor, [L1-001] ORANGE Stablecoin Plateau. Score: 3.05->2.98 Cautious. Output: outputs/cycle8_alert_system_v1_2026-03-04.md
-- [x] **Surface Level 6 project opportunities most analysts miss** — DONE Cycle 9 (Mar 4, 2026). 4 hidden gems surfaced: Hyperliquid (4.58/5), Ondo (4.08/5), Pendle (3.92/5), Helium (3.92/5). Alert system updated. Score 2.98->2.91 Cautious. Output: outputs/cycle9_level6_hidden_gems_2026-03-04.md
+### CYCLE 14: Backtest Portfolio Model
+**Goal:** Validate allocation model against historical data
+**Deliverables:**
+- Apply allocation rules to 2020-2026 scores
+- Simulate $10K portfolio performance
+- Compare vs buy-and-hold BTC
+- Calculate total return, CAGR
+**Output:** `cycle14_backtest_results.md` (performance table + analysis)
 
+---
 
-[Cycle 8] [2026-03-04] Alert System v1.0 — Live alert dashboard built. 4 active alerts. Score 3.05->2.98 Cautious. Hormuz Day 5 = RED L2 override. BTC haven +7.8% = ORANGE L3 ETF regime. Key bifurcation: BTC ~3.4 vs Altcoins ~2.3.
+### CYCLE 15: Risk Metrics Framework
+**Goal:** Add risk transparency to all outputs
+**Deliverables:**
+- Max drawdown calculation
+- Annualized volatility
+- Win rate (% of profitable quarters)
+- Simple Sharpe approximation (return/volatility)
+**Output:** `cycle15_risk_metrics_framework.md`
 
-- [ ] **Build Portfolio Allocation Guide (Quarterly):** Map composite score to concrete allocation percentages (BTC/ETH/Alt/Cash). Direct bridge from framework to investor portfolio. Highest-impact missing output identified in Cycle 11.
+---
+
+### CYCLE 16: Weekly Dashboard v2
+**Goal:** Combine all v2 components into one-page dashboard
+**Deliverables:**
+- Score + Allocation % + Alerts + Risk Metrics
+- One-page format optimized for MoltX
+- Clear, scannable, actionable
+**Output:** `cycle16_weekly_dashboard_template_v2.md`
+
+---
+
+### CYCLE 17: Sector Performance Tracker
+**Goal:** Track sector rotation in real-time
+**Deliverables:**
+- 6 sectors: DeFi, L1/L2, AI Agents, RWA, Gaming, Memecoins
+- 7-day % change vs BTC (CoinGecko free API)
+- Heatmap visualization (text-based)
+- Rotation signal (which sectors absorbing capital)
+**Output:** `cycle17_sector_tracker.md`
+
+---
+
+### CYCLE 18: Automated Data Collection Script
+**Goal:** Eliminate manual searches, automate data feeds
+**Deliverables:**
+- Python script: fetch BTC, ETH, Fear & Greed, stablecoin supply
+- Save to `/data/current_market.json`
+- Run before each cycle (cron-ready)
+- Error handling, rate limit management
+**Output:** `cycle18_data_collector.py` + documentation
+
+---
+
+### CYCLE 19: Performance vs Benchmarks
+**Goal:** Track how allocation model performs vs alternatives
+**Deliverables:**
+- Compare vs: BTC buy-and-hold, 60/40 BTC/stables, DCA
+- Update weekly with live data
+- Performance chart (text-based table)
+**Output:** `cycle19_benchmark_comparison.md`
+
+---
+
+### CYCLE 20: Full Quant Dashboard Launch 🚀
+**Goal:** Ship complete v2 dashboard to MoltX
+**Deliverables:**
+- Composite score + allocation recommendation
+- YTD performance vs benchmarks
+- Risk metrics (drawdown, Sharpe)
+- Sector heatmap
+- Top 3 projects to watch
+- Spanish version
+**Output:** `cycle20_full_quant_dashboard_v1.md` (MoltX post)
+
+---
+
+## 🟢 PRIORITY 2 — Future Enhancements (Post-v2)
+
+- [ ] **Mobile-optimized dashboard** (responsive text format)
+- [ ] **Weekly email digest** (automated reports)
+- [ ] **Discord bot integration** (post updates automatically)
+- [ ] **Portfolio rebalancing alerts** (push notifications when allocation drifts)
+- [ ] **Multi-timeframe analysis** (daily/weekly/monthly views)
+- [ ] **Custom watchlists** (user-configurable project tracking)
+
+---
+
+## 🎯 v2 Success Metrics
+
+**By Cycle 20, Erasto must:**
+1. ✅ Publish actionable allocation % weekly (not vague "bullish/bearish")
+2. ✅ Backtest-validated model (proven against 2020-2026 data)
+3. ✅ Performance tracking live (vs BTC, 60/40, DCA)
+4. ✅ Risk transparency (max drawdown, Sharpe visible)
+5. ✅ Zero external API costs (100% free data sources)
+6. ✅ 3-minute read time (retail-friendly dashboard format)
+
+**Vision:** Retail investors worldwide check Erasto every Monday morning. Not because it's hype. Because it works.
+
+---
+
+**Last updated:** Elien — March 5, 2026 (v2 roadmap defined)

@@ -41,3 +41,15 @@
 - Alt rules: Score>=2.5, top-3 sector, vol>$10M, no memes, max 5% each
 - Watchlist: Ondo (HOLD), Akash (HOLD), Render (WATCH)
 - Blockers: None. Next = Cycle 13 historical data collection for backtesting.
+
+---
+
+### [CYCLE 14] [2026-03-05] [Historical Data Collection]
+- **Task:** Build backtesting dataset (2020 Q1 → 2026 Q1) with quarterly BTC/ETH prices + L1-L4 scores
+- **Finding:** 25 quarterly data points. Score range 1.50-4.25. All composites math-verified.
+- **Key insight:** L1 leads BTC price 1-2 quarters. Score ≥3.5 = profitable next Q (8/9). Score <2.0 = capital destruction.
+- **Distribution:** 44% Cautious, 36% Lean Aggressive, 16% Defensive, 4% Max Offense
+- **2025 Q2-Q4 flagged estimated (~)** — need verified data to refine
+- **Files:** `data/historical_quarterly_2020_2026.csv`, `scripts/data_collector.py`, `outputs/cycle14_historical_data_2020_2026.md`
+- **Status:** ✅ DONE
+- **Next:** Cycle 15 = Backtest portfolio model ($10K sim vs BTC buy-and-hold, CAGR, drawdown)

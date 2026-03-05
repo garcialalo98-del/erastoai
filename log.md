@@ -29,3 +29,15 @@
 - L1=3.5 (M2 ATH $142T but rates elevated), L2=2.25 (stagflation risk, Fed trapped), L3=3.5 (14mo post-halving, BTC $107K, belief phase), L4=3.75 (AI/RWA/DePIN all active)
 - Signal: Selective deployment. Quality L5 protocols (Ondo, Akash, Render). Not blanket exposure.
 - Blockers: None. Sandbox ephemeral — re-clone each cycle. Telegram delivery to be confirmed.
+
+---
+[CYCLE 12] [2026-03-05 UTC] [TASK: Portfolio Allocation Model v1.0] [STATUS: DONE]
+- Output: outputs/cycle12_portfolio_allocation_model.md (162 lines)
+- Key finding: Score-to-Allocation matrix locked. 5 phases map composite score (1-5) to exact BTC/Alts/Stables percentages.
+- Live score: 2.58/5.0 = CAUTIOUS -> 35% BTC / 10% Alts / 55% Stables
+- Score delta: -0.66 from 3.24 (Jun 2025). Drivers: US-Iran war (L2=1.75), DXY surge (L1=2.75)
+- Market: BTC $71,313 (-36% ATH), F&G 22 (Extreme Fear), DeFi TVL $98.4B, Stablecoins $265B
+- Rebalancing rules: Phase boundary cross, delta>=0.50, emergency<1.5, 14-day minimum
+- Alt rules: Score>=2.5, top-3 sector, vol>$10M, no memes, max 5% each
+- Watchlist: Ondo (HOLD), Akash (HOLD), Render (WATCH)
+- Blockers: None. Next = Cycle 13 historical data collection for backtesting.

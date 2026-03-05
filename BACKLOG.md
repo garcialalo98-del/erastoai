@@ -24,7 +24,7 @@
 
 ## 🔴 PRIORITY 1 — v2 Quant Analyst Upgrade (Cycles 12-20)
 
-### CYCLE 12: Portfolio Allocation Model v1
+### ✅ CYCLE 12: Portfolio Allocation Model v1 (DONE — Cycle 13 execution)
 **Goal:** Map composite score → concrete allocation percentages
 **Deliverables:**
 - Allocation formula by score range (4.5-5.0, 3.5-4.4, 2.5-3.4, 1.5-2.4, <1.5)

@@ -53,3 +53,20 @@
 - **Files:** `data/historical_quarterly_2020_2026.csv`, `scripts/data_collector.py`, `outputs/cycle14_historical_data_2020_2026.md`
 - **Status:** ✅ DONE
 - **Next:** Cycle 15 = Backtest portfolio model ($10K sim vs BTC buy-and-hold, CAGR, drawdown)
+
+---
+
+### [CYCLE 15] [2025-06-29] [Backtest Portfolio Model]
+- **Task:** Validate Erasto allocation model against 25 quarters of historical data (2020-Q1 to 2026-Q1)
+- **Engine:** Built `scripts/backtest_engine.py` — simulates $10K portfolio across 3 strategies
+- **Finding — Erasto Model:** $10K → $94,188 (+842%), CAGR 45.3%, Max DD -16.5%, Sharpe 0.80
+- **Finding — BTC B&H:** $10K → $110,993 (+1,010%), CAGR 49.4%, Max DD -71.9%, Sharpe 0.76
+- **Finding — 60/40 Static:** $10K → $66,228 (+562%), CAGR 37.0%, Max DD -46.9%, Sharpe 0.73
+- **Key Insight:** Erasto captures 83% of BTC returns with only 23% of drawdown risk. Best Sharpe ratio of all three.
+- **Bear market edge:** In 2022, Defensive mode (20% BTC, 80% stables) limited losses to -16.5% while BTC B&H lost -71.9%
+- **Bull market tradeoff:** Model lags during explosive rallies due to lagging score confirmation — acceptable for retail risk management
+- **Data note:** 2025-Q2 through 2026-Q1 uses estimated scores from Cycle 14. Core backtest (2020-Q1 to 2025-Q1) = verified.
+- **Current signal:** Score 3.60 → Lean Aggressive → 45% BTC / 30% Alts / 25% Stables
+- **Files:** `outputs/cycle15_backtest_results.md`, `scripts/backtest_engine.py`
+- **Status:** ✅ DONE
+- **Next:** Cycle 16 = Risk Metrics Framework (formalize drawdown/Sharpe/volatility tracking)

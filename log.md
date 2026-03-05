@@ -70,3 +70,25 @@
 - **Files:** `outputs/cycle15_backtest_results.md`, `scripts/backtest_engine.py`
 - **Status:** ✅ DONE
 - **Next:** Cycle 16 = Risk Metrics Framework (formalize drawdown/Sharpe/volatility tracking)
+
+---
+
+### [CYCLE 16] [2025-07-06] [Risk Metrics Framework v1.0]
+- **Task:** BACKLOG CYCLE 15 — Add risk transparency to all outputs
+- **Deliverables:**
+  - `outputs/cycle16_risk_metrics_framework.md` — 8 risk metrics defined, calculated, and integrated into dashboard format
+  - `scripts/risk_metrics.py` — Full risk engine (MDD, Sharpe, Sortino, Calmar, Vol, Downside Vol, Win Rate, Profit Factor + rolling 2Y windows)
+  - `scripts/risk_helpers.py` — Shared portfolio simulation functions
+  - `data/risk_metrics.json` — Machine-readable metrics for dashboard consumption
+- **Key Findings:**
+  - Erasto wins 10 of 16 metrics vs BTC B&H — dominates every risk metric
+  - Sortino Ratio 3.90 (outstanding) — downside risk is exceptionally controlled
+  - Calmar Ratio 2.74 (excellent) — 45% CAGR with only -16.5% max drawdown
+  - Profit Factor 3.67 — average wins are 3.7× larger than average losses
+  - Rolling 2Y windows: Erasto never had MDD worse than -16.5%, BTC B&H hit -72%
+  - Risk Rating System created: 🟢LOW/🟡MODERATE/🟠ELEVATED/🔴HIGH with alert triggers
+- **Live snapshot:** BTC $71,255 (-26.5% from 90d peak), FNG 22 (Extreme Fear), 90d Vol 55.8%
+- **Current risk rating:** 🟡 MODERATE → borderline 🟠 ELEVATED
+- **Files:** `outputs/cycle16_risk_metrics_framework.md`, `scripts/risk_metrics.py`, `scripts/risk_helpers.py`, `data/risk_metrics.json`
+- **Status:** ✅ DONE
+- **Next:** Cycle 17 = Weekly Dashboard v2 (combine Score + Allocation + Risk + Alerts into one-page format)

@@ -56,7 +56,7 @@
 
 ---
 
-### CYCLE 15: Risk Metrics Framework
+### ✅ CYCLE 15: Risk Metrics Framework (DONE — Cycle 16 execution)
 **Goal:** Add risk transparency to all outputs
 **Deliverables:**
 - Max drawdown calculation

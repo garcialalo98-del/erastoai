@@ -1,0 +1,71 @@
+{
+  "meta": {
+    "version": "1.0.0",
+    "ts": "2026-03-06T11:33:22Z",
+    "date": "2026-03-06",
+    "status": "ok",
+    "errors": []
+  },
+  "prices": {
+    "btc_price": 70523,
+    "btc_24h_change": -3.46,
+    "btc_market_cap": 1410723667512,
+    "btc_24h_vol": 47225743928,
+    "eth_price": 2064.43,
+    "eth_24h_change": -3.83,
+    "eth_market_cap": 249269056533,
+    "eth_24h_vol": 19542334582,
+    "sol_price": 87.81,
+    "sol_24h_change": -4.79,
+    "sol_market_cap": 50047766252,
+    "sol_24h_vol": 4180320494
+  },
+  "global": {
+    "btc_dominance": 57.0,
+    "eth_dominance": 10.1,
+    "total_mcap_usd": 2474439801821,
+    "total_vol_24h": 107905550724,
+    "mcap_chg_24h": -2.57
+  },
+  "stablecoins": {
+    "usdt_mcap": 184039169484,
+    "usdc_mcap": 77173033380,
+    "dai_mcap": 4288026054,
+    "total": 265500228917,
+    "total_b": 265.5
+  },
+  "fng": {
+    "value": 18,
+    "label": "Extreme Fear",
+    "avg_7d": 14.1,
+    "hist_7d": [
+      18,
+      22,
+      10,
+      14,
+      10,
+      14,
+      11
+    ]
+  },
+  "defi": {
+    "tvl": 98008782217,
+    "tvl_b": 98.01,
+    "chg_7d": 2.85,
+    "chg_30d": -5.28
+  },
+  "summary": {
+    "btc": 70523,
+    "eth": 2064.43,
+    "sol": 87.81,
+    "btc_chg": -3.46,
+    "dom": 57.0,
+    "mcap_t": 2.47,
+    "fng": 18,
+    "fng_lbl": "Extreme Fear",
+    "fng_7d": 14.1,
+    "stables_b": 265.5,
+    "tvl_b": 98.01,
+    "tvl_7d": 2.85
+  }
+}

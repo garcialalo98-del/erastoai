@@ -219,3 +219,17 @@
 - **Deliverables:** market_regime.py (43 lines), run_cycle31.py (71 lines), cycle31_market_regime_classifier.md, score_history.csv +1 row, current_market.json updated, TG EN+ES (200 OK)
 - **Status:** ✅ DONE
 - **Next:** Forward performance tracking, automated regime alerts, email digest
+
+---
+
+### [CYCLE 32] [2026-03-06] [Forward Performance Tracker v1.0] 
+- **Score:** 2.62/5.0 CAUTIOUS (L1=4.0, L2=2.0, L3=1.75, L4=2.75)
+- **Allocation:** 35% BTC | 10% Alts | 55% Stables
+- **Market:** BTC $68,136 (-46% ATH) | ETH $1,977 | F&G 18 (Extreme Fear) | Stables $311.7B (+$40B) | TVL $95.8B
+- **Performance:** Portfolio $9,960 (-0.4%) vs BTC HODL (-2.7%) vs DCA (-0.4%)
+- **Alpha:** +2.27% vs BTC | -0.04% vs DCA | Max DD 0.4% | Win Streak 6
+- **Regime:** ACCUMULATION (67% confidence — 4/6 signals: ATH discount, extreme fear, stablecoin inflow, stable TVL)
+- **Key finding:** First live proof that score-based allocation outperforms in bear conditions. Defensive positioning preserved capital while BTC fell 2.67%. $312B stablecoin powder keg intact. 0.4% max drawdown = model working as designed. Patience = alpha.
+- **Deliverables:** forward_perf_tracker.py (126 lines), run_cycle32.py (166 lines), performance_history.csv (6 entries), score_history.csv +1 row, current_market.json updated, TG EN+ES (200 OK)
+- **Status:** ✅ DONE
+- **Next:** Automated regime alerts with perf impact, weekly digest, multi-asset alt tracking

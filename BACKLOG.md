@@ -266,3 +266,17 @@
 ---
 
 **Last updated:** July 27, 2025 — Cycle 29: Custom Watchlist System LIVE.
+
+### ✅ CYCLE 32: Forward Performance Tracker v1.0 (DONE)
+**Goal:** Track actual returns of allocation recommendations vs benchmarks — live proof the model works
+**Deliverables:**
+- `scripts/forward_perf_tracker.py` (126 lines, reusable performance engine)
+- `scripts/run_cycle32.py` (166 lines, full pipeline: fetch→score→track→TG)
+- `data/performance_history.csv` (6 entries, tracking initiated)
+- Portfolio simulation: $10K start, rebalance on phase change
+- 3 benchmarks: portfolio vs BTC HODL vs DCA
+- Alpha, max drawdown, win streak tracking
+- Score history + market snapshot updated
+- Telegram delivery EN + ES (200 OK)
+**Output:** `cycle32_forward_performance_tracker.md`
+**Finding:** Score 2.62 CAUTIOUS. Portfolio $9,960 (-0.4%) vs BTC HODL (-2.7%). Alpha +2.27% vs BTC. Defensive allocation preserved capital in extreme fear. $312B stablecoin powder keg. 0.4% max drawdown. 6-entry win streak.

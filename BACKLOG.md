@@ -265,7 +265,7 @@
 
 ---
 
-**Last updated:** July 27, 2025 — Cycle 29: Custom Watchlist System LIVE.
+**Last updated:** March 6, 2026 — Cycle 34: Custom Watchlist System LIVE.
 
 ### ✅ CYCLE 32: Forward Performance Tracker v1.0 (DONE)
 **Goal:** Track actual returns of allocation recommendations vs benchmarks — live proof the model works
@@ -290,5 +290,20 @@
 - Phase DOWNGRADE: CAUTIOUS -> DEFENSIVE (L4 collapse 2.75->1.5)
 **Output:** `cycle33_weekly_digest_engine.md`
 **Finding:** Score 2.31 DEFENSIVE (down from 2.62). First phase downgrade. L4 worst (1/12 positive). $9,967 (-0.3%) vs HODL (-2.5%) = +2.2% alpha. $312B powder keg. ACCUMULATION 60%.
+
+### ✅ CYCLE 34: Multi-Asset Alt Portfolio Tracker v1.0 (DONE)
+**Goal:** Transform "X% alts" into specific tracked positions with per-token P&L
+**Deliverables:**
+- `scripts/alt_basket_tracker.py` (65 lines, reusable: opp scoring + basket construction + P&L tracking)
+- `scripts/run_cycle34.py` (75 lines, full pipeline: fetch→score→select→track→TG)
+- `data/alt_basket.json` (5 positions tracked, paper mode)
+- Opportunity Score engine (ATH disc + momentum + bounce + size)
+- Paper mode for DEFENSIVE phase (tracks without deploying)
+- Auto-deploys on CAUTIOUS upgrade (10% → 5 equal-weight tokens)
+- Score history + performance history + market snapshot updated
+- Telegram EN + ES (200 OK)
+**Output:** `cycle34_multi_asset_alt_tracker.md`
+**Finding:** Score 2.31 DEFENSIVE. Alt basket PAPER: ARB (75.4), SUI (70.1), UNI (65.1), HYPE (64.8), DOGE (64.1). 0.19pts from CAUTIOUS deploy. $312B powder keg + 80% ACCUMULATION. Portfolio $9,969 (+2.09% alpha, 8W streak).
+
 
 

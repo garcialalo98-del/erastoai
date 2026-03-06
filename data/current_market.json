@@ -1,16 +1,15 @@
 {
   "ts": "2026-03-06",
-  "btc": 68248,
-  "eth": 1978.76,
-  "sol": 84.61,
+  "btc": 68322,
+  "eth": 1982.82,
+  "sol": 84.7,
   "fng": 18,
   "fngl": "Extreme Fear",
-  "fng7": 13.9,
   "stb": 311700000000.0,
   "tvl": 95800000000.0,
   "bdom": 63.0,
-  "b7": -0.2,
-  "b30": -6.0,
+  "b7": 4.3,
+  "b30": -5.9,
   "scores": {
     "l1": 4.0,
     "l2": 2.0,
@@ -26,13 +25,25 @@
   },
   "regime": {
     "r": "ACCUMULATION",
-    "cf": 60
+    "cf": 80.0
   },
   "perf": {
-    "pv": 9966.89,
-    "hv": 9749.16,
-    "ab": 2.18,
+    "pv": 9969.06,
+    "hv": 9759.73,
+    "ab": 2.09,
     "md": 0.4,
-    "ws": 7
+    "ws": 8
+  },
+  "alt_basket": {
+    "mode": "paper",
+    "tokens": [
+      "arbitrum",
+      "sui",
+      "uniswap",
+      "hyperliquid",
+      "dogecoin"
+    ],
+    "top_pick": "arbitrum",
+    "top_score": 75.4
   }
 }

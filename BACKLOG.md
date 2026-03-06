@@ -223,11 +223,27 @@
 
 ---
 
+### ✅ CYCLE 31: Market Regime Classifier v1.0 (DONE)
+**Goal:** Build market regime classification engine — identify which of 4 phases (Accumulation/Markup/Distribution/Markdown) the market is in
+**Deliverables:**
+- `scripts/market_regime.py` (43 lines, reusable 6-signal regime engine)
+- `scripts/run_cycle31.py` (71 lines, full pipeline: fetch→score→classify→TG)
+- 4 regime types with specific allocation guidance per regime
+- 6 input signals: ATH distance, 30d momentum, F&G, stablecoin flow, TVL trend, ETF sentiment
+- Score history + market snapshot updated
+- Telegram delivery EN + ES (200 OK)
+**Output:** `cycle31_market_regime_classifier.md`
+**Finding:** ACCUMULATION regime (67% conf). Score 3.08 CAUTIOUS (up from 2.44). L1=4.78 near max. $312B stablecoin powder keg. BTC -44% ATH + Extreme Fear 18 = textbook accumulation zone. ETF $228M outflow Mar 5 is dissenting signal.
+
+---
+
+
 
 ## 🟢 PRIORITY 2 — Future Enhancements (Post-v2)
 
 - [x] **Mobile-optimized dashboard** (responsive text format) — ✅ Cycle 21
 - [ ] **Weekly email digest** (automated reports)
+- [x] **Market regime classifier** (4-phase regime detection + strategy) — ✅ Cycle 31
 - [x] **Telegram bot integration** (post updates automatically) — ✅ Cycle 21
 - [x] **Portfolio rebalancing alerts** (push notifications when allocation drifts) — ✅ Cycle 24
 - [x] **Multi-timeframe analysis** (daily/weekly/monthly views) — ✅ Cycle 26

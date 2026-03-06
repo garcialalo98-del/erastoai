@@ -1,10 +1,14 @@
 {
   "date": "2026-03-06",
-  "btc": 68134,
-  "eth": 1980.04,
+  "btc": 68057,
+  "eth": 1974.96,
   "fng": 18,
-  "stb_b": 311.8,
+  "stb_b": 311.7,
   "tvl_b": 95.8,
-  "score": 2.56,
-  "phase": "CAUTIOUS"
+  "score": 3.08,
+  "phase": "CAUTIOUS",
+  "regime": "ACCUMULATION",
+  "regime_conf": 67,
+  "ath_dist": 44.2,
+  "mom_30d": -6.3
 }

@@ -207,3 +207,15 @@
 - **Deliverables:** custom_watchlist.py (118 lines), run_cycle29.py (64 lines), watchlist_config.json, watchlist_snapshot.json, TG EN+ES (4 msgs, 200 OK)
 - **Status:** ✅ DONE
 - **Next:** Weekly email digest, scoring model refinement, portfolio backtesting update
+
+---
+
+### [CYCLE 31] [2026-03-06] [Market Regime Classifier v1.0] [DONE]
+- **Task:** Build market regime classification engine (4 phases × 6 signals)
+- **Live data:** BTC $68,006 (-4.9% 24h, -44% ATH) | ETH $1,975 | SOL $85 | F&G 18 | Stables $311.7B | TVL $95.8B
+- **Score:** 3.08/5.0 → CAUTIOUS ⬆️ (up from 2.44 DEFENSIVE, +0.64pts)
+- **Regime:** ACCUMULATION (67% confidence — 4/6 signals: ATH discount, extreme fear, stablecoin inflow, stable TVL)
+- **Key finding:** Textbook accumulation zone. $312B stablecoin powder keg (+$42B). L1 Liquidity at 4.78/5.0 (near max). ETF $228M outflow Mar 5 = dissenting signal. BTC broke $72K then slid to $68K on geopolitical risk. Score upgrade driven by massive liquidity buildup. Patience = alpha.
+- **Deliverables:** market_regime.py (43 lines), run_cycle31.py (71 lines), cycle31_market_regime_classifier.md, score_history.csv +1 row, current_market.json updated, TG EN+ES (200 OK)
+- **Status:** ✅ DONE
+- **Next:** Forward performance tracking, automated regime alerts, email digest

@@ -233,3 +233,14 @@
 - **Deliverables:** forward_perf_tracker.py (126 lines), run_cycle32.py (166 lines), performance_history.csv (6 entries), score_history.csv +1 row, current_market.json updated, TG EN+ES (200 OK)
 - **Status:** ✅ DONE
 - **Next:** Automated regime alerts with perf impact, weekly digest, multi-asset alt tracking
+
+### [CYCLE 33] [2026-03-06] [Weekly Digest Engine v1.0]
+- **Task:** Build comprehensive weekly digest combining all v3 systems
+- **Score:** 2.31/5.0 DEFENSIVE (down from 2.62 CAUTIOUS — PHASE DOWNGRADE)
+- **Phase Change:** CAUTIOUS -> DEFENSIVE (L4 sector collapse 2.75->1.5, 1/12 positive)
+- **Allocation:** 20% BTC | 0% Alts | 80% Stables (was 35/10/55)
+- **Regime:** ACCUMULATION (60% — 3/5: ATH discount, extreme fear, stablecoin inflow)
+- **Key finding:** First phase downgrade in live tracking. L4 worst recorded (8% breadth). Model correctly shifts defensive. $312B powder keg unchanged but TVL -7.4% 30d and F&G 18 = no rotation yet. Portfolio $9,967 (-0.3%) vs HODL (-2.5%) = +2.2% alpha, 7 wins.
+- **Deliverables:** weekly_digest.py (49 lines), run_cycle33.py (24 lines), score_history +1, performance_history +1, current_market.json updated, TG EN+ES (200 OK)
+- **Status:** ✅ DONE
+- **Next:** Regime transition alerts, multi-asset alt tracking, weekly digest auto-scheduling

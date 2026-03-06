@@ -280,3 +280,15 @@
 - Telegram delivery EN + ES (200 OK)
 **Output:** `cycle32_forward_performance_tracker.md`
 **Finding:** Score 2.62 CAUTIOUS. Portfolio $9,960 (-0.4%) vs BTC HODL (-2.7%). Alpha +2.27% vs BTC. Defensive allocation preserved capital in extreme fear. $312B stablecoin powder keg. 0.4% max drawdown. 6-entry win streak.
+
+### ✅ CYCLE 33: Weekly Digest Engine v1.0 (DONE)
+**Goal:** Combine all v3 systems into one comprehensive weekly digest
+**Deliverables:**
+- `scripts/weekly_digest.py` (49 lines), `scripts/run_cycle33.py` (24 lines)
+- Weekly Digest: Score + Regime + Alloc + Performance + Sectors + Phase Alerts
+- Telegram EN + ES (200 OK)
+- Phase DOWNGRADE: CAUTIOUS -> DEFENSIVE (L4 collapse 2.75->1.5)
+**Output:** `cycle33_weekly_digest_engine.md`
+**Finding:** Score 2.31 DEFENSIVE (down from 2.62). First phase downgrade. L4 worst (1/12 positive). $9,967 (-0.3%) vs HODL (-2.5%) = +2.2% alpha. $312B powder keg. ACCUMULATION 60%.
+
+

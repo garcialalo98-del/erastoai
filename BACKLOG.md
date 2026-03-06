@@ -193,6 +193,21 @@
 
 ---
 
+### ✅ CYCLE 28: Score Prediction Model (DONE)
+**Goal:** Predict phase transitions — what triggers allocation changes, when, how likely
+**Deliverables:**
+- `scripts/score_predictor.py` (56 lines, reusable prediction engine)
+- `scripts/run_cycle28.py` (144 lines, full pipeline)
+- Phase boundary distance calculator (upgrade/downgrade pts)
+- Level velocity tracker + scenario analyzer
+- Real-world trigger catalog (specific events per level)
+- Telegram delivery EN + ES (200 OK)
+**Output:** `cycle28_score_prediction_model.md`
+**Finding:** Score 2.56 CAUTIOUS (down from 2.69). 0.06pts to DEFENSIVE downgrade. L1 Liquidity (4.25) strongest — fastest upgrade path. L2 Macro (2.0) + L3 Cycle (1.75) weakest. $312B stablecoin powder keg but F&G 18 + BTC -46% ATH drag score. Velocity -0.13.
+
+---
+
+
 ## 🟢 PRIORITY 2 — Future Enhancements (Post-v2)
 
 - [x] **Mobile-optimized dashboard** (responsive text format) — ✅ Cycle 21
@@ -218,4 +233,4 @@
 
 ---
 
-**Last updated:** March 6, 2026 — v3 Pipeline LIVE. Auto fetch+score+send operational.
+**Last updated:** March 6, 2026 — Cycle 28: Score Prediction Model LIVE.

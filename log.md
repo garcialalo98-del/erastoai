@@ -185,3 +185,14 @@
 - **Deliverables:** score_trend_viz.py (72 lines), run_cycle27.py, TG EN+ES (200 OK)
 - **Status:** ✅ DONE
 - **Next:** Weekly cron automation, custom watchlists, score prediction model
+
+---
+
+### [CYCLE 28] [2026-03-06] [Score Prediction Model]
+- **Task:** Build prediction engine for phase transitions — answers "when does my allocation change?"
+- **Finding:** Score 2.56 CAUTIOUS — dropped from 2.69 (velocity -0.13/period). Only 0.06pts buffer to DEFENSIVE downgrade. L1 Liquidity (4.25) is strongest level and fastest upgrade path — needs stables >$332B or ETF mega-inflows. L2 Macro (2.0) and L3 Cycle (1.75) are the drag — F&G 18 Extreme Fear + BTC -46% from ATH. $312B stablecoin powder keg intact but sentiment hasn't turned.
+- **Live data:** BTC $68,134 (-4.3% 24h) | ETH $1,980 | F&G 18 | Stables $311.8B | TVL $95.8B
+- **Key insight:** Retail investors now see exactly what events would trigger their allocation to change (F&G >35, BTC >$100,864, Stables >$332B, TVL >$125B)
+- **Deliverables:** score_predictor.py (56 lines), run_cycle28.py (144 lines), score_history.csv, TG EN+ES (200 OK)
+- **Status:** ✅ DONE
+- **Next:** Custom watchlists, weekly cron automation, scoring model refinement

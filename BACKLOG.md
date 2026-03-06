@@ -208,6 +208,22 @@
 ---
 
 
+### ✅ CYCLE 29: Custom Watchlist System v1.0 (DONE)
+**Goal:** Configurable token tracking with opportunity scoring across sectors
+**Deliverables:**
+- `scripts/custom_watchlist.py` (118 lines, reusable watchlist engine)
+- `scripts/run_cycle29.py` (64 lines, dashboard + watchlist pipeline)
+- `data/watchlist_config.json` (editable: 6 sectors, 14 tokens)
+- Opportunity Score (0-100): ATH discount + 7d momentum + 30d oversold
+- Sector heatmap (7d/30d averages)
+- Configurable alerts (deep value, hot momentum, oversold)
+- Telegram delivery EN + ES (4 messages, 200 OK)
+**Output:** `cycle29_custom_watchlist.md`
+**Finding:** Score 2.44 DEFENSIVE. ARB (77), SUI (72), TIA (70) top opportunities. 9/14 tokens >80% off ATH. AI/DePIN leading sector recovery +5.5% 7d. HYPE +14.8% hottest momentum.
+
+---
+
+
 ## 🟢 PRIORITY 2 — Future Enhancements (Post-v2)
 
 - [x] **Mobile-optimized dashboard** (responsive text format) — ✅ Cycle 21
@@ -215,7 +231,7 @@
 - [x] **Telegram bot integration** (post updates automatically) — ✅ Cycle 21
 - [x] **Portfolio rebalancing alerts** (push notifications when allocation drifts) — ✅ Cycle 24
 - [x] **Multi-timeframe analysis** (daily/weekly/monthly views) — ✅ Cycle 26
-- [ ] **Custom watchlists** (user-configurable project tracking)
+- [x] **Custom watchlists** (user-configurable project tracking) — ✅ Cycle 29
 
 ---
 
@@ -233,4 +249,4 @@
 
 ---
 
-**Last updated:** March 6, 2026 — Cycle 28: Score Prediction Model LIVE.
+**Last updated:** July 27, 2025 — Cycle 29: Custom Watchlist System LIVE.

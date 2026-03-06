@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "updated": "2025-07-27",
+  "sectors": {
+    "DeFi": {"tokens": ["aave", "uniswap", "pendle"], "thesis": "Revenue-generating protocols"},
+    "L1_L2": {"tokens": ["solana", "sui", "arbitrum", "celestia"], "thesis": "Infrastructure plays"},
+    "AI_DePIN": {"tokens": ["render-token", "hyperliquid"], "thesis": "AI compute + depin"},
+    "RWA": {"tokens": ["ondo-finance", "chainlink"], "thesis": "Real-world assets + oracles"},
+    "Gaming": {"tokens": ["immutable-x"], "thesis": "Gaming infra"},
+    "Meme": {"tokens": ["dogecoin", "pepe"], "thesis": "Sentiment barometers"}
+  },
+  "alerts": {"ath_discount_buy": -80, "momentum_7d_hot": 10, "momentum_30d_cold": -25}
+}

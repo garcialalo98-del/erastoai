@@ -1,0 +1,230 @@
+{
+  "ts": "",
+  "tokens": {
+    "solana": {
+      "sym": "SOL",
+      "price": 84.97,
+      "mcap": 48456670140,
+      "d1": -4.92,
+      "d7": 4.2,
+      "d30": -8.65,
+      "ath": 293.31,
+      "ath_pct": -71.03,
+      "opp": 53
+    },
+    "dogecoin": {
+      "sym": "DOGE",
+      "price": 0.090965,
+      "mcap": 13946988060,
+      "d1": -3.66,
+      "d7": -2.19,
+      "d30": -12.83,
+      "ath": 0.731578,
+      "ath_pct": -87.57,
+      "opp": 58
+    },
+    "hyperliquid": {
+      "sym": "HYPE",
+      "price": 31.07,
+      "mcap": 7411177741,
+      "d1": 1.26,
+      "d7": 14.83,
+      "d30": -13.13,
+      "ath": 59.3,
+      "ath_pct": -47.6,
+      "opp": 50
+    },
+    "chainlink": {
+      "sym": "LINK",
+      "price": 8.78,
+      "mcap": 6218106950,
+      "d1": -5.52,
+      "d7": 1.2,
+      "d30": -6.11,
+      "ath": 52.7,
+      "ath_pct": -83.34,
+      "opp": 60
+    },
+    "sui": {
+      "sym": "SUI",
+      "price": 0.900808,
+      "mcap": 3514272332,
+      "d1": -6.3,
+      "d7": 0.17,
+      "d30": -17.68,
+      "ath": 5.35,
+      "ath_pct": -83.15,
+      "opp": 72
+    },
+    "uniswap": {
+      "sym": "UNI",
+      "price": 3.84,
+      "mcap": 2435139060,
+      "d1": -4.06,
+      "d7": 3.4,
+      "d30": 0.97,
+      "ath": 44.92,
+      "ath_pct": -91.44,
+      "opp": 60
+    },
+    "aave": {
+      "sym": "AAVE",
+      "price": 111.54,
+      "mcap": 1694038696,
+      "d1": -6.43,
+      "d7": -0.33,
+      "d30": -10.24,
+      "ath": 661.69,
+      "ath_pct": -83.14,
+      "opp": 58
+    },
+    "pepe": {
+      "sym": "PEPE",
+      "price": 3.38e-06,
+      "mcap": 1420115386,
+      "d1": -4.23,
+      "d7": -7.71,
+      "d30": -20.97,
+      "ath": 2.803e-05,
+      "ath_pct": -87.96,
+      "opp": 57
+    },
+    "ondo-finance": {
+      "sym": "ONDO",
+      "price": 0.254697,
+      "mcap": 1240021214,
+      "d1": -4.52,
+      "d7": -0.71,
+      "d30": -6.72,
+      "ath": 2.14,
+      "ath_pct": -88.1,
+      "opp": 53
+    },
+    "render-token": {
+      "sym": "RENDER",
+      "price": 1.36,
+      "mcap": 704340159,
+      "d1": -3.09,
+      "d7": -3.9,
+      "d30": -11.61,
+      "ath": 13.53,
+      "ath_pct": -89.95,
+      "opp": 58
+    },
+    "arbitrum": {
+      "sym": "ARB",
+      "price": 0.099806,
+      "mcap": 592843689,
+      "d1": -4.0,
+      "d7": 0.5,
+      "d30": -23.82,
+      "ath": 2.39,
+      "ath_pct": -95.82,
+      "opp": 77
+    },
+    "celestia": {
+      "sym": "TIA",
+      "price": 0.329023,
+      "mcap": 292307583,
+      "d1": -4.36,
+      "d7": 3.19,
+      "d30": -10.33,
+      "ath": 20.85,
+      "ath_pct": -98.42,
+      "opp": 70
+    },
+    "pendle": {
+      "sym": "PENDLE",
+      "price": 1.21,
+      "mcap": 200771095,
+      "d1": -5.47,
+      "d7": -3.2,
+      "d30": -18.48,
+      "ath": 7.5,
+      "ath_pct": -83.82,
+      "opp": 65
+    },
+    "immutable-x": {
+      "sym": "IMX",
+      "price": 0.156423,
+      "mcap": 133490400,
+      "d1": -2.4,
+      "d7": -5.14,
+      "d30": -12.72,
+      "ath": 9.52,
+      "ath_pct": -98.36,
+      "opp": 55
+    }
+  },
+  "sectors": {
+    "DeFi": {
+      "avg_7d": -0.04,
+      "avg_30d": -9.25,
+      "avg_ath": -86.13,
+      "n": 3,
+      "thesis": "Revenue-generating protocols"
+    },
+    "L1_L2": {
+      "avg_7d": 2.02,
+      "avg_30d": -15.12,
+      "avg_ath": -87.11,
+      "n": 4,
+      "thesis": "Infrastructure plays"
+    },
+    "AI_DePIN": {
+      "avg_7d": 5.46,
+      "avg_30d": -12.37,
+      "avg_ath": -68.78,
+      "n": 2,
+      "thesis": "AI compute + depin"
+    },
+    "RWA": {
+      "avg_7d": 0.24,
+      "avg_30d": -6.42,
+      "avg_ath": -85.72,
+      "n": 2,
+      "thesis": "Real-world assets + oracles"
+    },
+    "Gaming": {
+      "avg_7d": -5.14,
+      "avg_30d": -12.72,
+      "avg_ath": -98.36,
+      "n": 1,
+      "thesis": "Gaming infra"
+    },
+    "Meme": {
+      "avg_7d": -4.95,
+      "avg_30d": -16.9,
+      "avg_ath": -87.76,
+      "n": 2,
+      "thesis": "Sentiment barometers"
+    }
+  },
+  "alerts": [
+    "\ud83d\udfe2 DOGE at -88% from ATH \u2014 deep value",
+    "\ud83d\udd25 HYPE +14.8% 7d \u2014 hot momentum",
+    "\ud83d\udfe2 LINK at -83% from ATH \u2014 deep value",
+    "\ud83d\udfe2 SUI at -83% from ATH \u2014 deep value",
+    "\ud83d\udfe2 UNI at -91% from ATH \u2014 deep value",
+    "\ud83d\udfe2 AAVE at -83% from ATH \u2014 deep value",
+    "\ud83d\udfe2 PEPE at -88% from ATH \u2014 deep value",
+    "\ud83d\udfe2 ONDO at -88% from ATH \u2014 deep value",
+    "\ud83d\udfe2 RENDER at -90% from ATH \u2014 deep value",
+    "\ud83d\udfe2 ARB at -96% from ATH \u2014 deep value",
+    "\ud83d\udfe2 TIA at -98% from ATH \u2014 deep value",
+    "\ud83d\udfe2 PENDLE at -84% from ATH \u2014 deep value",
+    "\ud83d\udfe2 IMX at -98% from ATH \u2014 deep value"
+  ],
+  "dashboard": {
+    "score": 2.44,
+    "phase": "DEFENSIVE",
+    "l1": 4.0,
+    "l2": 2.0,
+    "l3": 1.75,
+    "l4": 2.0,
+    "btc": 68152,
+    "eth": 1979.88,
+    "fng": 18,
+    "stb_b": 311.73
+  }
+}

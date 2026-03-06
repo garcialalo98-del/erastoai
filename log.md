@@ -196,3 +196,14 @@
 - **Deliverables:** score_predictor.py (56 lines), run_cycle28.py (144 lines), score_history.csv, TG EN+ES (200 OK)
 - **Status:** ✅ DONE
 - **Next:** Custom watchlists, weekly cron automation, scoring model refinement
+
+---
+
+### [CYCLE 29] [2025-07-27] [Custom Watchlist v1.0] [DONE]
+- **Task:** Build configurable token tracking system with opportunity scoring
+- **Live data:** BTC $68,152 (-46% ATH) | ETH $1,980 | F&G 18 | Stables $311.7B | TVL $95.8B
+- **Score:** 2.44/5.0 → DEFENSIVE (L1=4.0, L2=2.0, L3=1.75, L4=2.0)
+- **Key finding:** 14 tokens tracked across 6 sectors. ARB (77), SUI (72), TIA (70) top opportunity scores. 9/14 tokens >80% off ATH = broad deep value. HYPE +14.8% 7d strongest momentum. AI/DePIN sector leading recovery (+5.5% 7d).
+- **Deliverables:** custom_watchlist.py (118 lines), run_cycle29.py (64 lines), watchlist_config.json, watchlist_snapshot.json, TG EN+ES (4 msgs, 200 OK)
+- **Status:** ✅ DONE
+- **Next:** Weekly email digest, scoring model refinement, portfolio backtesting update

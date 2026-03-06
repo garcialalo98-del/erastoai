@@ -141,3 +141,14 @@
 - **v3 Status:** Distribution layer LIVE. Telegram bot operational. Mobile format validated.
 - **Status:** ✅ DONE
 - **Next:** Automated data pipeline (script that fetches + scores + sends in one run), rebalancing alerts, portfolio tracker
+
+---
+
+### [CYCLE 23] [2026-03-06] [Automated Data Pipeline v1.0]
+- **Task:** Build end-to-end pipeline: Fetch → Score → Allocate → Format → Send (Telegram)
+- **Finding:** Score 2.44 DEFENSIVE (+0.19 vs C21). BTC $70,109 flat. F&G 18 Extreme Fear unchanged. CRITICAL: Stablecoins $311.7B ATH (+$39.9B/+14.7% vs C21) — largest liquidity build in tracking history. L1=4.0 (bullish), L2=2.0, L3=1.75, L4=2.0. Only MKR (+21.7%) and UNI (+1.8%) green in 10-token sector basket. $312B powder keg: money available but not deployed. Divergence between liquidity (bullish) and price (capitulating) historically resolves violently. Watch F&G>25 as shift trigger.
+- **Delivered:** (1) `scripts/erasto_pipeline.py` — 124-line Python script, 7 API calls, auto-scoring L1-L4, Telegram delivery EN+ES (2) Live dashboard sent — TG IDs 25, 26 (3) JSON snapshot saved to `data/current_market.json`
+- **Key outputs:** `cycle23_automated_pipeline.md`, `scripts/erasto_pipeline.py`, Telegram messages 25+26
+- **v3 Status:** Pipeline OPERATIONAL. Erasto can now run fully automated: one command = fetch + score + allocate + send.
+- **Status:** ✅ DONE
+- **Next:** Rebalancing alerts (notify when score crosses phase boundary), historical score tracking (append to time series), weekly cron schedule

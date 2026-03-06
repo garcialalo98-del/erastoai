@@ -137,6 +137,20 @@
 
 ---
 
+
+### ✅ CYCLE 23: Automated Data Pipeline v1.0 (DONE)
+**Goal:** End-to-end automation: one command fetches data, scores L1-L4, generates allocation, formats dashboard, sends via Telegram
+**Deliverables:**
+- `scripts/erasto_pipeline.py` (124 lines, Python stdlib only)
+- 7 free API calls: CoinGecko (4), Alternative.me (1), DeFiLlama (2)
+- Auto-scoring engine: L1 (stablecoin delta), L2 (F&G), L3 (ATH+momentum), L4 (sector %)
+- Telegram delivery EN + ES (<2K chars, mobile-optimized)
+- JSON snapshot saved to `data/current_market.json`
+**Output:** `cycle23_automated_pipeline.md`
+**Finding:** Score 2.44 DEFENSIVE. Stablecoins $311.7B (+$40B vs C21) = largest liquidity build tracked. $312B powder keg.
+
+---
+
 ## 🟢 PRIORITY 2 — Future Enhancements (Post-v2)
 
 - [x] **Mobile-optimized dashboard** (responsive text format) — ✅ Cycle 21
@@ -162,4 +176,4 @@
 
 ---
 
-**Last updated:** March 6, 2026 — v3 STARTED 🚀 Telegram delivery live.
+**Last updated:** March 6, 2026 — v3 Pipeline LIVE. Auto fetch+score+send operational.

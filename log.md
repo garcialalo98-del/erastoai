@@ -152,3 +152,14 @@
 - **v3 Status:** Pipeline OPERATIONAL. Erasto can now run fully automated: one command = fetch + score + allocate + send.
 - **Status:** ✅ DONE
 - **Next:** Rebalancing alerts (notify when score crosses phase boundary), historical score tracking (append to time series), weekly cron schedule
+
+---
+
+### [CYCLE 24] [2026-03-06] [Rebalancing Alerts + Historical Score Tracking] [Score 2.44 DEFENSIVE — 0.06pts to CAUTIOUS upgrade. $312B stablecoin powder keg. No rebalance triggered.] [DONE]
+- **Task:** Build rebalance alert system (phase boundary detection) + historical score time series
+- **Delivered:** (1) `scripts/rebalance_alerts.py` — 64-line module: phase detection, boundary math, CSV history tracker (2) `scripts/run_cycle24.py` — 88-line runner: fetch→score→compare→alert→TG (3) `data/score_history.csv` — time series initiated (4) Telegram status sent (msg #27)
+- **Key finding:** Score 2.44, only 0.06 pts from CAUTIOUS upgrade. Any single trigger (F&G>25 OR BTC 30d>0% OR 3+ sectors green) flips phase → automatic rebalance alert
+- **Live data:** BTC $70,004 | F&G 18 | Stables $311.7B (+$39.9B) | TVL $97.8B | Sectors 2/10 positive
+- **v3 Status:** Rebalance alerts OPERATIONAL. Historical tracking LIVE. Score=2.44 DEFENSIVE confirmed across C21/C23/C24.
+- **Status:** ✅ DONE
+- **Next:** Multi-timeframe analysis, score trend visualization, weekly cron schedule

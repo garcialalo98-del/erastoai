@@ -151,12 +151,25 @@
 
 ---
 
+### ✅ CYCLE 24: Rebalancing Alerts + Historical Score Tracking (DONE)
+**Goal:** Auto-detect phase boundary crossings and track score time series
+**Deliverables:**
+- `scripts/rebalance_alerts.py` (64 lines, phase detection + boundary math + CSV history)
+- `scripts/run_cycle24.py` (88 lines, end-to-end: fetch→score→compare→alert→TG)
+- `data/score_history.csv` (time series tracking initiated)
+- Telegram delivery of status/rebalance alerts
+- Score 2.44 DEFENSIVE confirmed — 0.06pts to CAUTIOUS upgrade
+**Output:** `cycle24_rebalance_alerts.md`
+**Finding:** Score 2.44 DEFENSIVE. 0.06pts from upgrade. $312B stablecoin powder keg. Any single trigger flips to CAUTIOUS.
+
+---
+
 ## 🟢 PRIORITY 2 — Future Enhancements (Post-v2)
 
 - [x] **Mobile-optimized dashboard** (responsive text format) — ✅ Cycle 21
 - [ ] **Weekly email digest** (automated reports)
 - [x] **Telegram bot integration** (post updates automatically) — ✅ Cycle 21
-- [ ] **Portfolio rebalancing alerts** (push notifications when allocation drifts)
+- [x] **Portfolio rebalancing alerts** (push notifications when allocation drifts) — ✅ Cycle 24
 - [ ] **Multi-timeframe analysis** (daily/weekly/monthly views)
 - [ ] **Custom watchlists** (user-configurable project tracking)
 

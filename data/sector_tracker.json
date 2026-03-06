@@ -1,0 +1,47 @@
+{
+  "date": "2026-03-06",
+  "btc_price": 70527.4,
+  "btc_7d_pct": 6.64,
+  "fng": 18,
+  "fng_label": "Extreme Fear",
+  "tvl_b": 98.01,
+  "tvl_7d_pct": 2.85,
+  "rotation_score": 1.5,
+  "sectors": {
+    "DeFi": {
+      "avg_7d": 2.07,
+      "vs_btc": -4.57,
+      "rank": 1
+    },
+    "L1/L2": {
+      "avg_7d": 0.76,
+      "vs_btc": -5.88,
+      "rank": 2
+    },
+    "AI/DePIN": {
+      "avg_7d": 0.56,
+      "vs_btc": -6.08,
+      "rank": 3
+    },
+    "Gaming": {
+      "avg_7d": -2.69,
+      "vs_btc": -9.32,
+      "rank": 4
+    },
+    "RWA": {
+      "avg_7d": -3.57,
+      "vs_btc": -10.21,
+      "rank": 5
+    },
+    "Memecoins": {
+      "avg_7d": -4.99,
+      "vs_btc": -11.63,
+      "rank": 6
+    }
+  },
+  "outliers": [
+    "MKR +11.93% (DeFi)",
+    "NEAR +11.88% (AI)"
+  ],
+  "signal": "STRONG_RISK_OFF"
+}

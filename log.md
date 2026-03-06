@@ -100,3 +100,13 @@
 - **Files:** `outputs/cycle17_weekly_dashboard_v2.md`, `data/current_score.json`
 - **Status:** ✅ DONE
 - **Next:** Cycle 18 = Sector Performance Tracker (6 sectors, 7d % vs BTC, rotation signals)
+
+---
+
+### [CYCLE 18] [2026-03-06] [Sector Performance Tracker]
+- **Task:** Build sector rotation tracker (6 sectors, 7d % vs BTC, rotation signals)
+- **Finding:** ALL 6 sectors underperformed BTC (7d). Rotation Score 1.5/5 = STRONG RISK-OFF. BTC +6.64% but every alt sector negative vs BTC. DeFi best relative (-4.6% vs BTC), Memecoins worst (-11.6% vs BTC). MKR (+11.93%) and NEAR (+11.88%) only tokens beating BTC — idiosyncratic, not sector-wide. Memecoins in capitulation (PEPE -15.3% vs BTC). Capital flow: Stables >> BTC >> nothing else. Confirms 20%BTC/0%Alts/80%Stables allocation.
+- **Key outputs:** Sector heatmap, 6-sector detail with 21 tokens tracked, rotation signals table, portfolio implications. Saved sector_tracker.json for weekly delta tracking.
+- **Files:** `outputs/cycle18_sector_tracker.md`, `data/sector_tracker.json`
+- **Status:** ✅ DONE
+- **Next:** Cycle 19 = Automated Data Collection Script (Python, cron-ready, all free APIs)

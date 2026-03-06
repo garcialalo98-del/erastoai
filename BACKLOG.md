@@ -67,7 +67,7 @@
 
 ---
 
-### CYCLE 16: Weekly Dashboard v2
+### ✅ CYCLE 16: Weekly Dashboard v2 (DONE — Cycle 17 execution)
 **Goal:** Combine all v2 components into one-page dashboard
 **Deliverables:**
 - Score + Allocation % + Alerts + Risk Metrics

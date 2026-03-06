@@ -92,3 +92,11 @@
 - **Files:** `outputs/cycle16_risk_metrics_framework.md`, `scripts/risk_metrics.py`, `scripts/risk_helpers.py`, `data/risk_metrics.json`
 - **Status:** ✅ DONE
 - **Next:** Cycle 17 = Weekly Dashboard v2 (combine Score + Allocation + Risk + Alerts into one-page format)
+
+### [CYCLE 17] — March 6, 2026
+- **Task:** Weekly Dashboard v2 — One-page format combining Score + Allocation + Risk + Alerts
+- **Finding:** Score downgraded 2.58 → 2.30 (CAUTIOUS → DEFENSIVE). Triple headwind: 15% global tariffs + Iran war + 7-day Extreme Fear streak (avg 14). Model signals reduce to 20% BTC / 0% Alts / 80% Stables. DeFi TVL +5.1% 7d is only bright spot. BTC -27.7% from 90d peak. DXY at 99.1 elevated.
+- **Key outputs:** Dashboard with 7 sections (Score, Allocation, Breakdown, Alerts, Risk Metrics, Market Snapshot, Watchlist). Saved current_score.json for future automation.
+- **Files:** `outputs/cycle17_weekly_dashboard_v2.md`, `data/current_score.json`
+- **Status:** ✅ DONE
+- **Next:** Cycle 18 = Sector Performance Tracker (6 sectors, 7d % vs BTC, rotation signals)

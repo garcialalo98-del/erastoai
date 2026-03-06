@@ -1,0 +1,44 @@
+{
+  "date": "2026-03-06",
+  "composite_score": 2.30,
+  "phase": "DEFENSIVE",
+  "previous_score": 2.58,
+  "previous_phase": "CAUTIOUS",
+  "delta": -0.28,
+  "phase_change": true,
+  "levels": {
+    "L1_liquidity": 2.50,
+    "L2_macro": 1.75,
+    "L3_cycle": 2.25,
+    "L4_flows": 2.75
+  },
+  "weights": {"L1": 0.30, "L2": 0.25, "L3": 0.25, "L4": 0.20},
+  "allocation": {
+    "btc_pct": 20,
+    "alts_pct": 0,
+    "stables_pct": 80,
+    "total_crypto_pct": 20
+  },
+  "market": {
+    "btc_price": 70547,
+    "eth_price": 2063.85,
+    "sol_price": 87.77,
+    "fng": 18,
+    "fng_7d_avg": 14,
+    "btc_dominance": 57.0,
+    "total_mcap_t": 2.47,
+    "dxy": 99.10,
+    "us10y": 4.13,
+    "stablecoin_supply_b": 261.2,
+    "defi_tvl_b": 98.0,
+    "btc_90d_drawdown": -27.7
+  },
+  "alerts": [
+    "PHASE CHANGE: Cautious -> Defensive",
+    "FNG 18: 7 consecutive days Extreme Fear",
+    "BTC -27.7% from 90d peak",
+    "15% global tariffs activated",
+    "Stablecoin supply $261B growing",
+    "DeFi TVL +5.1% 7d resilient"
+  ]
+}

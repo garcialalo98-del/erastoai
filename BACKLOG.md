@@ -11,7 +11,8 @@
 |---|------|----------|--------|
 | 1 | First v2 cycle: API data + threshold scoring + validation + alpha | P1 | DONE C37 |
 | 2 | Initialize Portafolio Erasto (first positions based on current zone) | P1 | DONE C37 |
-| 3 | First validated Weekly Brief with alpha + portfolio | P1 | TODO (next Monday) |
+| 3 | First validated Score Update with alpha + portfolio tracking | P1 | DONE C38 |
+| 3b | First validated Weekly Brief (Monday) | P1 | TODO (next Monday) |
 | 4 | March 2026 Watchlist (5-10 tokens with entry triggers) | P1 | TODO |
 | 5 | First Level 6 Deep Dive on L4 sector leader | P2 | TODO |
 | 6 | Backtest: composite score vs BTC 30d returns correlation | P2 | TODO |

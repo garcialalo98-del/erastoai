@@ -3,50 +3,64 @@
   "version": "2.0",
   "hypothetical_capital": 10000,
   "inception_date": "2026-03-10",
-  "last_updated": "2026-03-10",
+  "last_updated": "2026-03-11",
   "current_zone": "CAUTELOSA",
   "positions": [
     {
       "token": "USDC",
       "weight_pct": 25,
       "usd": 2500,
-      "entry_price": 1.0
+      "entry_price": 1.0,
+      "current_price": 1.0,
+      "current_value": 2500.0
     },
     {
       "token": "BTC",
       "weight_pct": 30,
       "usd": 3000,
-      "entry_price": 69706
+      "entry_price": 69706,
+      "current_price": 69728,
+      "current_value": 3000.95
     },
     {
       "token": "ETH",
       "weight_pct": 20,
       "usd": 2000,
-      "entry_price": 2027
+      "entry_price": 2027,
+      "current_price": 2030.25,
+      "current_value": 2003.21
     },
     {
       "token": "SOL",
       "weight_pct": 8,
       "usd": 800,
-      "entry_price": 85.51
+      "entry_price": 85.51,
+      "current_price": 85.53,
+      "current_value": 800.19
     },
     {
       "token": "HYPE",
       "weight_pct": 7,
       "usd": 700,
-      "entry_price": 33.72
+      "entry_price": 33.72,
+      "current_price": 33.97,
+      "current_value": 705.19
     },
     {
       "token": "TAO",
       "weight_pct": 5,
       "usd": 500,
-      "entry_price": 198.76
+      "entry_price": 198.76,
+      "current_price": 199.18,
+      "current_value": 501.06
     },
     {
       "token": "PENDLE",
       "weight_pct": 5,
       "usd": 500,
-      "entry_price": 1.27
+      "entry_price": 1.27,
+      "current_price": 1.28,
+      "current_value": 503.94
     }
   ],
   "changes_log": [
@@ -54,10 +68,17 @@
       "date": "2026-03-10",
       "cycle": 37,
       "action": "INIT"
+    },
+    {
+      "date": "2026-03-11",
+      "cycle": 38,
+      "action": "HOLD",
+      "reason": "Score 3.10 stable, same zone CAUTELOSA"
     }
   ],
   "performance": {
     "inception_value": 10000,
-    "current_value": 10000
+    "current_value": 10014.52,
+    "pnl_pct": 0.15
   }
 }

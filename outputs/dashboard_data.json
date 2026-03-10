@@ -1,40 +1,53 @@
 {
   "version": "2.0",
-  "last_updated": null,
-  "cycle": 11,
-  "composite_score": null,
-  "composite_delta": null,
-  "zone": null,
+  "last_updated": "2026-03-10T00:00:00Z",
+  "cycle": 37,
+  "composite_score": 3.1,
+  "composite_delta": 0.02,
+  "previous_score": 3.08,
+  "zone": "CAUTELOSA",
   "allocation": {
-    "stables_pct": null,
-    "btc_pct": null,
-    "eth_pct": null,
-    "alts_pct": null
+    "stables_pct": 25,
+    "btc_pct": 30,
+    "eth_pct": 20,
+    "alts_pct": 25
   },
   "levels": {
-    "L1": { "name": "Global Liquidity", "score": null, "delta": null, "weight": 0.20, "justification": "", "data": {} },
-    "L2": { "name": "Macro Risk", "score": null, "delta": null, "weight": 0.20, "justification": "", "data": {} },
-    "L3": { "name": "Crypto Cycle", "score": null, "delta": null, "weight": 0.20, "justification": "", "data": {} },
-    "L4": { "name": "Sector Flows", "score": null, "delta": null, "weight": 0.15, "justification": "", "data": {} },
-    "L5": { "name": "Protocol Liquidity", "score": null, "delta": null, "weight": 0.10, "justification": "", "data": {} },
-    "L6": { "name": "Project Spotlight", "score": null, "delta": null, "weight": 0.15, "justification": "", "data": {} }
+    "L1": {
+      "name": "Global Liquidity",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    "L2": {
+      "name": "Macro Risk",
+      "score": 2.5,
+      "weight": 0.2
+    },
+    "L3": {
+      "name": "Crypto Cycle",
+      "score": 3.0,
+      "weight": 0.2
+    },
+    "L4": {
+      "name": "Sector Flows",
+      "score": 3.5,
+      "weight": 0.15
+    },
+    "L5": {
+      "name": "Protocol Liq",
+      "score": 3.5,
+      "weight": 0.1
+    },
+    "L6": {
+      "name": "Project Spotlight",
+      "score": 3.5,
+      "weight": 0.15
+    }
   },
-  "alpha": [],
-  "catalysts": [],
-  "risk_signals": {
-    "mvrv_below_1": { "active": false, "current": null, "trigger": 1.0 },
-    "btc_crash_7d": { "active": false, "current": null, "trigger": -15 },
-    "dxy_squeeze_30d": { "active": false, "current": null, "trigger": 5 }
-  },
-  "watch_list": [],
   "market_snapshot": {
-    "btc_price": null,
-    "eth_price": null,
-    "total_mcap": null,
-    "fear_greed": null,
-    "dxy": null,
-    "brent": null,
-    "fed_rate": null
-  },
-  "telegram_message": { "es": "", "en": "" }
+    "btc_price": 69706,
+    "eth_price": 2027,
+    "fear_greed": 13,
+    "defi_tvl_b": 97.6
+  }
 }

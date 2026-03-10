@@ -32,3 +32,12 @@ Watch C11: Hormuz resolution | Brent $90 | MVRV <1.0 | Alt dominance 52%
 [CYCLE 10] [2026-03-04] Spanish Research Brief — First full 6-level research report in Spanish for retail investors. BTC $73,765 (+8.05%), ETF $1.7B inflows (GREEN), MVRV 1.1 (ORANGE), Ormuz Day 5 (RED), Score 2.91->3.05 Cautelosa. 4 hidden gems summarized in Spanish. Output: outputs/cycle10_spanish_research_brief_2026-03-04.md [DONE]
 
 [CYCLE 11] [2026-03-04] Output Design Guide — Explored most valuable outputs for retail investors. Finding: 5 of 6 highest-value output types already LIVE (Score Update, Flash Alert, Sector Brief, L6 Deep Dive, Bilingual Brief). Gap: Portfolio Allocation Guide (Score→Allocation%). 3 core principles defined: So What Rule, Context Ladder Rule, Threshold Rule. Score 3.05->3.08 CAUTIOUS ACCUM. Hormuz Day 5 RED ongoing, Bessent pledge eases Brent to $73.84, BTC $73,676 +7.85%. MVRV 1.1 ORANGE. AltSeason 35. Watch C12: Hormuz ceasefire | MVRV<1.0 | AltSeason>50 [DONE]
+
+[CYCLE 37] [2026-03-10] Score Update + Portfolio Init — First fully validated v2 cycle.
+Data: BTC $69,706 (+1.1% 24h, -5.5% vs C11) | ETH $2,027 | SOL $85.51 | Fear & Greed 13 (EXTREME FEAR) | MCap $2.45T | BTC Dom 56.8% | DeFi TVL $97.6B (flat) | Yields: JLP 13.2%/$117M, GMX 17.1%/$58.7M | Trending: BTC, TAO, PI, SOL, MORPHO, NEAR
+Scoring: L1=3.0(DXY~103) L2=2.5(Fear13,Hormuz) L3=3.0(BTC-5.5%,MVRV~1.65) L4=3.5(TAO/MORPHO fundamental) L5=3.5(TVL flat+yields) L6=3.5(HYPE/PENDLE/ONDO)
+Score: 3.08 -> 3.10 CAUTELOSA (→ flat). Allocation: 25%stables|30%BTC|20%ETH|25%alts
+Portfolio INITIALIZED: USDC 25%|BTC 30%|ETH 20%|SOL 8%|HYPE 7%|TAO 5%|PENDLE 5% = $10,000
+Alpha: 1) Fear=13 contrarian buy signal [R2] 2) PENDLE +3.3% yield narrative [R3] 3) TAO trending AI [R4]
+Risk signals: None triggered. Fear 13 notable but not framework FLASH.
+Watch C38: Fear recovery? | MVRV data source | DXY live | Weekly brief Monday

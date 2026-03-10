@@ -3,16 +3,61 @@
   "version": "2.0",
   "hypothetical_capital": 10000,
   "inception_date": "2026-03-10",
-  "last_updated": null,
-  "last_rebalance": null,
-  "current_zone": null,
-  "positions": [],
-  "changes_log": [],
+  "last_updated": "2026-03-10",
+  "current_zone": "CAUTELOSA",
+  "positions": [
+    {
+      "token": "USDC",
+      "weight_pct": 25,
+      "usd": 2500,
+      "entry_price": 1.0
+    },
+    {
+      "token": "BTC",
+      "weight_pct": 30,
+      "usd": 3000,
+      "entry_price": 69706
+    },
+    {
+      "token": "ETH",
+      "weight_pct": 20,
+      "usd": 2000,
+      "entry_price": 2027
+    },
+    {
+      "token": "SOL",
+      "weight_pct": 8,
+      "usd": 800,
+      "entry_price": 85.51
+    },
+    {
+      "token": "HYPE",
+      "weight_pct": 7,
+      "usd": 700,
+      "entry_price": 33.72
+    },
+    {
+      "token": "TAO",
+      "weight_pct": 5,
+      "usd": 500,
+      "entry_price": 198.76
+    },
+    {
+      "token": "PENDLE",
+      "weight_pct": 5,
+      "usd": 500,
+      "entry_price": 1.27
+    }
+  ],
+  "changes_log": [
+    {
+      "date": "2026-03-10",
+      "cycle": 37,
+      "action": "INIT"
+    }
+  ],
   "performance": {
     "inception_value": 10000,
-    "current_value": null,
-    "total_return_pct": null,
-    "vs_btc_pct": null,
-    "vs_eth_pct": null
+    "current_value": 10000
   }
 }

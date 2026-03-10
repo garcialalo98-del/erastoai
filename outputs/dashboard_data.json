@@ -1,0 +1,125 @@
+{
+  "version": "2.0",
+  "last_updated": null,
+  "cycle": 11,
+  "composite_score": null,
+  "composite_delta": null,
+  "zone": null,
+  "allocation": {
+    "stables_pct": null,
+    "btc_pct": null,
+    "eth_pct": null,
+    "alts_pct": null
+  },
+  "levels": {
+    "L1": {
+      "name": "Global Liquidity",
+      "score": null,
+      "delta": null,
+      "weight": 0.20,
+      "justification": "",
+      "data": {
+        "dxy": null,
+        "dxy_source": "FRED",
+        "fed_rate": null,
+        "fed_rate_source": "FRED",
+        "m2_trend": null,
+        "yield_curve": null
+      }
+    },
+    "L2": {
+      "name": "Macro Risk",
+      "score": null,
+      "delta": null,
+      "weight": 0.20,
+      "justification": "",
+      "data": {
+        "vix": null,
+        "oil_brent": null,
+        "geopolitical_risk": "",
+        "sp500_correlation": null
+      }
+    },
+    "L3": {
+      "name": "Crypto Cycle",
+      "score": null,
+      "delta": null,
+      "weight": 0.20,
+      "justification": "",
+      "data": {
+        "btc_price": null,
+        "btc_price_source": "CoinGecko",
+        "btc_dominance": null,
+        "mvrv": null,
+        "mvrv_source": "",
+        "fear_greed": null,
+        "fear_greed_source": "Alternative.me",
+        "funding_rates": null,
+        "halving_phase": "Year 2 post-halving"
+      }
+    },
+    "L4": {
+      "name": "Sector Flows",
+      "score": null,
+      "delta": null,
+      "weight": 0.15,
+      "justification": "",
+      "data": {
+        "leading_sectors": [],
+        "lagging_sectors": [],
+        "altseason_index": null,
+        "narrative": ""
+      }
+    },
+    "L5": {
+      "name": "Protocol Liquidity",
+      "score": null,
+      "delta": null,
+      "weight": 0.10,
+      "justification": "",
+      "data": {
+        "total_tvl": null,
+        "tvl_source": "DeFiLlama",
+        "tvl_30d_change_pct": null,
+        "avg_defi_yield": null,
+        "top_protocols": []
+      }
+    },
+    "L6": {
+      "name": "Project Spotlight",
+      "score": null,
+      "delta": null,
+      "weight": 0.15,
+      "justification": "",
+      "data": {
+        "project_name": null,
+        "ticker": null,
+        "category": null,
+        "tokenomics_score": null,
+        "team_score": null,
+        "moat_score": null,
+        "catalyst_score": null,
+        "risk_flags": []
+      }
+    }
+  },
+  "risk_signals": {
+    "mvrv_below_1": { "active": false, "current": null, "trigger": 1.0 },
+    "btc_crash_7d": { "active": false, "current": null, "trigger": -15 },
+    "dxy_squeeze_30d": { "active": false, "current": null, "trigger": 5 }
+  },
+  "watch_list": [],
+  "market_snapshot": {
+    "btc_price": null,
+    "eth_price": null,
+    "total_mcap": null,
+    "fear_greed": null,
+    "dxy": null,
+    "brent": null,
+    "fed_rate": null
+  },
+  "telegram_message": {
+    "es": "",
+    "en": ""
+  }
+}

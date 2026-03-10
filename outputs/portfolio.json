@@ -5,6 +5,7 @@
   "inception_date": "2026-03-10",
   "last_updated": "2026-03-11",
   "current_zone": "CAUTELOSA",
+  "composite_score": 3.20,
   "positions": [
     {
       "token": "USDC",
@@ -12,47 +13,47 @@
       "usd": 2500,
       "entry_price": 1.0,
       "current_price": 1.0,
-      "current_value": 2500.0
+      "current_value": 2500.00
     },
     {
       "token": "BTC",
       "weight_pct": 30,
       "usd": 3000,
       "entry_price": 69706,
-      "current_price": 69728,
-      "current_value": 3000.95
+      "current_price": 69911,
+      "current_value": 3008.82
     },
     {
       "token": "ETH",
       "weight_pct": 20,
       "usd": 2000,
       "entry_price": 2027,
-      "current_price": 2030.25,
-      "current_value": 2003.21
+      "current_price": 2035.67,
+      "current_value": 2008.55
     },
     {
       "token": "SOL",
       "weight_pct": 8,
       "usd": 800,
       "entry_price": 85.51,
-      "current_price": 85.53,
-      "current_value": 800.19
+      "current_price": 85.71,
+      "current_value": 801.87
     },
     {
       "token": "HYPE",
       "weight_pct": 7,
       "usd": 700,
       "entry_price": 33.72,
-      "current_price": 33.97,
-      "current_value": 705.19
+      "current_price": 34.12,
+      "current_value": 708.30
     },
     {
       "token": "TAO",
       "weight_pct": 5,
       "usd": 500,
       "entry_price": 198.76,
-      "current_price": 199.18,
-      "current_value": 501.06
+      "current_price": 199.70,
+      "current_value": 502.36
     },
     {
       "token": "PENDLE",
@@ -74,11 +75,19 @@
       "cycle": 38,
       "action": "HOLD",
       "reason": "Score 3.10 stable, same zone CAUTELOSA"
+    },
+    {
+      "date": "2026-03-11",
+      "cycle": 39,
+      "action": "HOLD",
+      "reason": "Score 3.20 (+0.10), same zone CAUTELOSA. DeFi rebotando."
     }
   ],
   "performance": {
     "inception_value": 10000,
-    "current_value": 10014.52,
-    "pnl_pct": 0.15
+    "current_value": 10033.85,
+    "pnl_pct": 0.34,
+    "vs_btc": "BTC +2.9% desde inception vs portafolio +0.34%",
+    "note": "Portafolio conservador 25% stables reduce volatilidad"
   }
 }

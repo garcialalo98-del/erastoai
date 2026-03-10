@@ -1,10 +1,10 @@
 {
   "version": "2.0",
-  "last_updated": "2026-03-11T00:00:00Z",
-  "cycle": 38,
-  "composite_score": 3.1,
-  "composite_delta": 0.0,
-  "previous_score": 3.1,
+  "last_updated": "2026-03-11T23:54:00Z",
+  "cycle": 39,
+  "composite_score": 3.20,
+  "composite_delta": 0.10,
+  "previous_score": 3.10,
   "zone": "CAUTELOSA",
   "allocation": {
     "stables_pct": 25,
@@ -21,64 +21,55 @@
     },
     "L2": {
       "name": "Macro Risk",
-      "score": 2.5,
+      "score": 3.0,
       "weight": 0.2,
-      "reason": "Fear&Greed=13, gold $5153 risk-off"
+      "reason": "VIX 22.40 (20-30=3), mercado rebotando +1.76%"
     },
     "L3": {
       "name": "Crypto Cycle",
       "score": 3.0,
       "weight": 0.2,
-      "reason": "BTC $69728 +2.5%7d, MVRV ~1.65"
+      "reason": "BTC $69,911 +2.3%7d, MVRV ~1.65, dom 56.9%"
     },
     "L4": {
       "name": "Sector Flows",
       "score": 3.5,
       "weight": 0.15,
-      "reason": "HYPE+AAVE fundamental leading"
+      "reason": "AAVE+4.8%, PENDLE+5.2%, HYPE #1 trending"
     },
     "L5": {
       "name": "Protocol Liq",
       "score": 3.5,
       "weight": 0.1,
-      "reason": "TVL $97.5B stable, yields >8%"
+      "reason": "TVL $97.24B estable, JLP 13.2%APY, GMX 17.1%"
     },
     "L6": {
       "name": "Project Spotlight",
       "score": 3.5,
       "weight": 0.15,
-      "reason": "PENDLE +4.65%, AAVE +4.2%"
+      "reason": "DeFi fundamentals leading, FOMC+CPI catalysts"
     }
   },
   "market_snapshot": {
-    "btc_price": 69728,
-    "eth_price": 2030.25,
+    "btc_price": 69911,
+    "eth_price": 2035.67,
+    "sol_price": 85.71,
     "fear_greed": 13,
-    "defi_tvl_b": 97.5,
-    "btc_dominance": 56.85
+    "defi_tvl_b": 97.24,
+    "btc_dominance": 56.90,
+    "mcap_t": 2.458,
+    "vix": 22.40,
+    "gold": 5154
   },
   "alpha_picks": [
-    {
-      "token": "PENDLE",
-      "signal": "Yield narrative +4.65% 24h",
-      "risk": 3
-    },
-    {
-      "token": "AAVE",
-      "signal": "DeFi blue chip +4.2% 24h",
-      "risk": 3
-    },
-    {
-      "token": "HYPE",
-      "signal": "Trending #2 +9.3% 7d",
-      "risk": 3
-    }
+    {"token": "PENDLE", "signal": "+5.18% 24h, yield narrative DeFi liderando", "risk": 3},
+    {"token": "AAVE", "signal": "+4.80% 24h, gobernanza + fundamentales DeFi", "risk": 3},
+    {"token": "JLP", "signal": "Jupiter Lend 13.2% APY, $115M TVL Solana", "risk": 2}
   ],
   "risk_signals": {
     "mvrv_flash": false,
     "btc_crash": false,
-    "dxy_squeeze": false
-  },
-  "portfolio_value": 10014.52,
-  "portfolio_pnl_pct": 0.15
+    "dxy_squeeze": false,
+    "notes": "F&G 13 sostenido = contrarian bullish. Sin FLASH triggers."
+  }
 }

@@ -13,6 +13,7 @@
 | 2 | Initialize Portafolio Erasto (first positions based on current zone) | P1 | DONE C37 |
 | 3 | First validated Score Update with alpha + portfolio tracking | P1 | DONE C38 |
 | 3b | First validated Weekly Brief (Monday) | P1 | TODO (next Monday) |
+| 3c | Second score update — L2 threshold correction + catalyst tracking | P1 | DONE C39 |
 | 4 | March 2026 Watchlist (5-10 tokens with entry triggers) | P1 | TODO |
 | 5 | First Level 6 Deep Dive on L4 sector leader | P2 | TODO |
 | 6 | Backtest: composite score vs BTC 30d returns correlation | P2 | TODO |

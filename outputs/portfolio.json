@@ -1,0 +1,18 @@
+{
+  "portfolio_name": "Portafolio Erasto",
+  "version": "2.0",
+  "hypothetical_capital": 10000,
+  "inception_date": "2026-03-10",
+  "last_updated": null,
+  "last_rebalance": null,
+  "current_zone": null,
+  "positions": [],
+  "changes_log": [],
+  "performance": {
+    "inception_value": 10000,
+    "current_value": null,
+    "total_return_pct": null,
+    "vs_btc_pct": null,
+    "vs_eth_pct": null
+  }
+}

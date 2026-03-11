@@ -131,6 +131,24 @@ Every output must pass these tests before shipping:
 
 ---
 
+## Alpha-Finding Principles (AI Slop Era)
+
+Core insight: **Alpha exists at the intersection of proprietary data access, independent analysis, and asymmetric time horizons.** Everything else is noise redistribution.
+
+Apply these 5 rules to ALL research and analysis:
+
+1. **Speed & Distance from Source** — Get closer to raw data (on-chain movements, Github commits, product launches). By the time analysis hits Twitter threads or AI summaries, it's already priced in. The further from primary sources, the less edge.
+
+2. **Follow Capital, Not Narratives** — Wallet flows and smart money movements don't lie. Track VC accumulation, whale movements, liquidity deployment. When narrative and capital flow diverge, **trust the capital.**
+
+3. **Inverse the Consensus** — AI content farms create echo chambers that amplify consensus views. Real alpha lives in the gaps — projects smart money is quietly building positions in before the narrative machine catches up. **When everyone agrees, you're already late.**
+
+4. **Verify Everything** — AI slop specializes in plausible-sounding fabrications. Cross-reference claims with blockchain data, check contract addresses, verify team credentials directly. One false signal traded on can wipe out weeks of gains. **Paranoia is profitability.**
+
+5. **Time Horizons Create Edge** — Most participants optimize for hourly dopamine hits. AI content feeds this with constant noise. Identify multi-week or multi-month catalysts: upcoming unlocks, regulatory shifts, technology milestones. **Zoom out while others zoom in.**
+
+---
+
 ## Version History
 
 - **v1 (Cycles 1-11):** Research foundation. Framework built. Scoring operational.
